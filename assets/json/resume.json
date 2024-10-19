@@ -18,13 +18,59 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Huawei 2012 Lab",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": "2024-10-01",
+      "summary": "Assisted with the optimization of algorithms in lab projects.",
+      "highlights": [
+        "Optimized algorithms such as 83Code and CRC."
+      ]
+    },
+    {
+      "name": "LIM Immobilien Verwaltung Holding GmbH",
+      "position": "Data Analyst Intern",
+      "url": "",
+      "startDate": "2024-01-05",
+      "endDate": "2024-07-25",
+      "summary": "Conducted property valuation for land in Munich.",
+      "highlights": [
+        "Used income approach and market analysis.",
+        "Developed software to automate rent payment processing."
+      ]
+    },
+    {
+      "name": "Lingtu.de EdTech",
+      "position": "Chief Technology Officer & Co-Founder",
+      "url": "",
+      "startDate": "2022-09-01",
+      "endDate": "2024-02-01",
+      "summary": "Built educational platforms for international students.",
+      "highlights": [
+        "Leveraged advanced technology to build top-tier platforms for international students, offering educational resources for language learning, programming courses and career guidance.",
+      ]
+    },
+    {
+      "name": "Technical University of Munich",
+      "position": "6 Times Teaching Assistant",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "2024-7-01",
+      "summary": "Delivered tutorial lectures and prepared lesson materials for various courses.",
+      "highlights": [
+        "Gained 1% GPA in modules mathematics, delivered tutorial lectures to over 180 students, wrote a full set of lesson materials independently, helped preparing practice questions and supported professors with grading assignments and exam papers.",
+        "Advanced Algorithms, Programming Theory, Distributed Systems, Theory of Informatics, Numerical Programming, Linear Algebra, Discrete Mathematics and Probability Theory"
+      ]
+    },
+    {
+      "name": "Feixiang Gongcheng Intelligent Technology Co., Ltd",
+      "position": "AI & ML Summer Intern",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2023-10-15",
+      "summary": "Directed Gen-AI automation projects in healthcare.",
+      "highlights": []
     }
   ],
   "volunteer": [
