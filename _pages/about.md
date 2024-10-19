@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Be a lifelong learner
+subtitle: Be a lifelong learner :)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_tianhao.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Sintpertstr. 48</p>
