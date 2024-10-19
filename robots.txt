@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Tianhao-Gu123.github.io/sitemap.xml
+Sitemap: https://tianhaogutum.github.io/sitemap.xml
