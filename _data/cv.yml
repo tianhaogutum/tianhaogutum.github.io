@@ -2,31 +2,42 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tianhao Gu
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th June 2003
     - name: Languages
-      value: English, German
+      value: English, German, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc Computer Science
+      institution: Technical University of Munich
+      year: 2024 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Expected graduation in June 2026.
+        - Institution ranked Top 10 Worldwide (THE RANK).
+    - title: STV in Digitalisation and Prototype
+      institution: University of Turku
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Focus on consulting, software service design, and business prototype methodology.
+    - title: BSc Computer Science with Business Administration Focus
+      institution: Technical University of Munich
+      year: 2018 - 2021
+      description:
+        - 6 times Teaching Assistant.
+        - TOP 1% GPA in Math.
+        - 1 Year ahead of Average Graduation.
+        - Bachelor Thesis: “Effectiveness of Scenario-Based Testing on a Deep-Reinforcement Learning”.
+        - Relevant Coursework: Computation Theory, Programming, Economics, Management.
+    - title: Abitur
+      institution: Chengdu Experimental Foreign Language School
+      year: 2018
+      description:
+        - GPA Top 1%.
+        - Pre-Study at Goethe University.
+        - German Summer Study at Humboldt University.
 
 - title: Experience
   type: time_table
