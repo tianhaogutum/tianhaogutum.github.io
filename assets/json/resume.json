@@ -6,7 +6,7 @@
     "email": "tianhao.gu@tum.de",
     "phone": "+49(0)177 7040156",
     "url": "",
-    "summary": "A dedicated Data Analyst and Machine Learning Engineer with experience in algorithm optimization and educational technology.",
+    "summary": "A dedicated Data Analyst and Machine Learning Engineer with experience in economics and management.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,8 +21,8 @@
       "name": "Huawei 2012 Lab",
       "position": "Research Assistant",
       "url": "",
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2024-09-01",
+      "endDate": "2024-10-01",
       "summary": "Assisted with the optimization of algorithms in lab projects.",
       "highlights": [
         "Optimized algorithms such as 83Code and CRC."
@@ -32,8 +32,8 @@
       "name": "LIM Immobilien Verwaltung Holding GmbH",
       "position": "Data Analyst Intern",
       "url": "",
-      "startDate": "2022-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2024-01-05",
+      "endDate": "2024-07-25",
       "summary": "Conducted property valuation for land in Munich.",
       "highlights": [
         "Used income approach and market analysis.",
@@ -44,32 +44,31 @@
       "name": "Lingtu.de EdTech",
       "position": "Chief Technology Officer & Co-Founder",
       "url": "",
-      "startDate": "2022-01-01",
-      "endDate": "2024-12-31",
-      "summary": "Built platforms for international students with a focus on educational resources.",
+      "startDate": "2022-09-01",
+      "endDate": "2024-02-01",
+      "summary": "Built educational platforms for international students.",
       "highlights": [
-        "Leveraged advanced technology for language learning.",
-        "Employed AI for content segmentation and multilingual delivery."
+        "Leveraged advanced technology to build top-tier platforms for international students, offering educational resources for language learning, programming courses and career guidance.",
       ]
     },
     {
       "name": "Technical University of Munich",
-      "position": "Teaching Assistant",
+      "position": "6 Times Teaching Assistant",
       "url": "",
-      "startDate": "2018-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2022-08-01",
+      "endDate": "2024-7-01",
       "summary": "Delivered tutorial lectures and prepared lesson materials for various courses.",
       "highlights": [
-        "Assisted over 180 students with tutorial lectures.",
-        "Gained 1% GPA in mathematics."
+        "Gained 1% GPA in modules mathematics, delivered tutorial lectures to over 180 students, wrote a full set of lesson materials independently, helped preparing practice questions and supported professors with grading assignments and exam papers.",
+        "Advanced Algorithms, Programming Theory, Distributed Systems, Theory of Informatics, Numerical Programming, Linear Algebra, Discrete Mathematics and Probability Theory"
       ]
     },
     {
       "name": "Feixiang Gongcheng Intelligent Technology Co., Ltd",
       "position": "AI & ML Summer Intern",
       "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
+      "startDate": "2023-09-01",
+      "endDate": "2023-10-15",
       "summary": "Directed Gen-AI automation projects in healthcare.",
       "highlights": []
     }
@@ -81,7 +80,7 @@
       "url": "https://www.tum.de/",
       "area": "Computer Science",
       "studyType": "MSc",
-      "startDate": "2024-01-01",
+      "startDate": "2024-09-01",
       "endDate": "2026-06-01",
       "score": "",
       "courses": []
@@ -92,8 +91,8 @@
       "url": "https://www.utu.fi/",
       "area": "Digitalisation and Prototype",
       "studyType": "STV",
-      "startDate": "2021-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-31",
       "score": "",
       "courses": []
     },
@@ -103,8 +102,8 @@
       "url": "https://www.tum.de/",
       "area": "Computer Science with Business Administration Focus",
       "studyType": "BSc",
-      "startDate": "2018-01-01",
-      "endDate": "2021-12-31",
+      "startDate": "2021-09-01",
+      "endDate": "2024-09-31",
       "score": "TOP 1% GPA in Math",
       "courses": [
         "Advanced Algorithms",
@@ -123,30 +122,30 @@
       "url": "",
       "area": "Abitur",
       "studyType": "",
-      "startDate": "2018-01-01",
-      "endDate": "2018-12-31",
-      "score": "Top 1%",
+      "startDate": "2015-09-01",
+      "endDate": "2021-07-01",
+      "score": "Top 1% GPA",
       "courses": []
     }
   ],
   "certificates": [
     {
       "name": "Foundations of UX Design",
-      "date": "2024-01-01",
+      "date": "2023-11",
       "issuer": "Google",
       "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Neural Networks and Deep Learning",
-      "date": "2024-01-01",
+      "date": "2023-11",
       "issuer": "Coursera",
       "url": "",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Social Media Marketing",
-      "date": "2024-01-01",
+      "date": "2023-11",
       "issuer": "Meta",
       "url": "",
       "icon": "fa-solid fa-hashtag"
