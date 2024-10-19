@@ -1,12 +1,50 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Materials for courses I taught at the Technical University of Munich.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Experience at Technical University of Munich
 
-Organize your courses by years, topics, or universities, however you like!
+### Teaching Assistant of Linear Algebra (Apr 2024 - Jun 2024)
+- Delivered tutorial lectures to students.
+- Independently wrote a full set of lesson materials.
+- Assisted in preparing practice questions.
+- Supported professors with grading assignments and exam papers.
+
+### Teaching Assistant of Discrete Probability (Apr 2024 - Jun 2024)
+- Delivered tutorial lectures to students.
+- Independently wrote a full set of lesson materials.
+- Assisted in preparing practice questions.
+- Supported professors with grading assignments and exam papers.
+
+### Teaching Assistant of Discrete Structures (Oct 2023 - Feb 2024)
+- Delivered tutorial lectures to students.
+- Independently wrote a full set of lesson materials.
+- Assisted in preparing practice questions.
+- Supported professors with grading assignments and exam papers.
+
+### Teaching Assistant of Introduction to Programming (Sep 2023 - Oct 2023)
+- Delivered tutorial lectures to students.
+- Independently wrote a full set of lesson materials.
+- Assisted in preparing practice questions.
+- Supported professors with grading assignments and exam papers.
+
+### Teaching Assistant of Discrete Structures (Oct 2022 - Feb 2023)
+- Delivered tutorial lectures to students.
+- Independently wrote a full set of lesson materials.
+- Assisted in preparing practice questions.
+- Supported professors with grading assignments and exam papers.
+
+### Teaching Assistant of Introduction to Programming (Sep 2022 - Oct 2022)
+- Delivered tutorial lectures to students.
+- Independently wrote a full set of lesson materials.
+- Assisted in preparing practice questions.
+- Supported professors with grading assignments and exam papers.
+
+---
+
+Feel free to reach out for more details or specific materials from each course!
