@@ -12,7 +12,7 @@ profile:
     <p>Sintpertstr. 48</p>
     <p>Munich, 81539</p>
     <p>+49(0)1777040156</p>
-
+    
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
