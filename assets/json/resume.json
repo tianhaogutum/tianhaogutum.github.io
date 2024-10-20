@@ -29,6 +29,19 @@
       ]
     },
     {
+      "name": "Technical University of Munich",
+      "position": "Six Time Assistant Teacher, Informatics Department",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "2024-07-01",
+      "summary": "Delivered tutorial lectures and supported various courses.",
+      "highlights": [
+        "Achieved a GPA in the top 1% for mathematics modules.",
+        "Delivered tutorial lectures to over 180 students and independently created a complete set of lesson materials.",
+        "Assisted in preparing practice questions and supported professors with grading assignments and exam papers for courses including Algorithms, Programming Theory, Distributed Systems, Theory of Informatics, Numerical Programming, Linear Algebra, and Discrete Mathematics."
+      ]
+    },
+    {
       "name": "LIM Immobilien Verwaltung Holding GmbH",
       "position": "Intern, Data Analyst",
       "url": "",
@@ -53,19 +66,6 @@
       ]
     },
     {
-      "name": "Technical University of Munich",
-      "position": "Assistant Teacher, Informatics Department",
-      "url": "",
-      "startDate": "2022-08-01",
-      "endDate": "2024-7-01",
-      "summary": "Delivered tutorial lectures and supported various courses.",
-      "highlights": [
-        "Achieved a GPA in the top 1% for mathematics modules.",
-        "Delivered tutorial lectures to over 180 students and independently created a complete set of lesson materials.",
-        "Assisted in preparing practice questions and supported professors with grading assignments and exam papers for courses including Algorithms, Programming Theory, Distributed Systems, Theory of Informatics, Numerical Programming, Linear Algebra, and Discrete Mathematics."
-      ]
-    },
-    {
       "name": "Feixiang Gongcheng Intelligent Technology Co., Ltd",
       "position": "Summer Intern, AI & ML",
       "url": "",
@@ -75,18 +75,37 @@
       "highlights": [
         "Led initiatives in AI automation for social media within the healthcare and medical sector."
       ]
+    },
+    {
+      "name": "Go Asia Deutschland GmbH",
+      "position": "Customer Service Staff",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-01",
+      "summary": "Provided customer service and support.",
+      "highlights": []
+    },
+    {
+      "name": "TRUST Promotion",
+      "position": "IT Support Specialist",
+      "url": "",
+      "startDate": "2022-02-01",
+      "endDate": "2023-10-31",
+      "summary": "Provided IT support for major events.",
+      "highlights": [
+        "Supported events such as ISPO 2023, EC 2022, and Drinktec 2022 in Munich.",
+        "Delivered technical assistance to ensure smooth operations during major exhibitions and conferences."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "UEFA EURO 2024",
+      "position": "Information & IT Support",
+      "url": "",
+      "startDate": "2024-06-20",
+      "endDate": "2024-07-31",
+      "summary": "Provided information and IT support during UEFA EURO 2024 at Fan Zone in Munich",
+      "highlights": []
     }
   ],
   "education": [
@@ -195,38 +214,30 @@
       "icon": "fa-solid fa-comments"
     }
   ],
-  "thesis": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    }
-  ],
   "skills": [
     {
-      "name": "IT",
+      "name": "IT & Business",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation",
         "Python",
         "Java",
         "C",
         "C++",
         "SQL",
+        "Cloud",
         "Excel",
+        "AI",
         "Machine Learning",
         "Neutral Network",
         "LLM",
         "Linux",
-        "Docker"
+        "Docker",
+        "SCRUM",
+        "Software Testing",
+        "UX & UI Design",
+        "Social Media Marketing",
+        "Business & Economics Strategy",
       ]
     }
   ],
@@ -238,7 +249,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Business Fluent",
       "icon": ""
     },
     {
