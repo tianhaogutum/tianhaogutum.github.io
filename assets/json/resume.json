@@ -145,10 +145,8 @@
       "endDate": "2024-06-30",
       "score": "TOP 1% GPA in Math | 1 Year ahead of Average Graduation",
       "courses": [
-        "Computation Theory",
-        "Programming",
-        "Economics",
-        "Management",
+        "6 times Teaching Assistant | TOP 1% GPA in Math | 1 Year ahead of Average Graduation",
+        "Computation Theory, Programming, Economics, Management",
         "Bachelor Thesis: Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Swarm Controller"
       ]
     },
@@ -167,14 +165,14 @@
     },
     {
       "institution": "École Polytechnique",
-      "location": "Remote",
+      "location": "Remote, Paris",
       "studyType": "EuroTeQ",
       "startDate": "2023-08-31",
       "endDate": "2025-02-15"
     },
     {
       "institution": "Eindhoven University of Technology",
-      "location": "Remote",
+      "location": "Remote, Eindhoven",
       "studyType": "EuroTeQ",
       "startDate": "2023-08-31",
       "endDate": "2025-02-15"
