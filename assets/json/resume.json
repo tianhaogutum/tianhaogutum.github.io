@@ -158,7 +158,7 @@
       "area": "Abitur",
       "studyType": "High School Diploma",
       "startDate": "2015-09-01",
-      "endDate": "2021-06-31",
+      "endDate": "2021-06-30",
       "score": "GPA Top 1%",
       "courses": [
         "Pre-Study @ Goethe University",
@@ -169,26 +169,13 @@
       "institution": "École Polytechnique",
       "studyType": "EuroTeQ",
       "startDate": "2023-08-31",
-      "endDate": "2021-02-15",
+      "endDate": "2025-02-15"
     },
     {
       "institution": "Eindhoven University of Technology",
       "studyType": "EuroTeQ",
       "startDate": "2023-08-31",
-      "endDate": "2021-02-15",
-    },
-    {
-      "institution": "Chengdu Experimental Foreign Language School",
-      "location": "Chengdu, China",
-      "area": "Abitur",
-      "studyType": "High School Diploma",
-      "startDate": "2015-09-01",
-      "endDate": "2021-06-31",
-      "score": "GPA Top 1%",
-      "courses": [
-        "Pre-Study @ Goethe University",
-        "German Summer Study @ Humboldt-Institute"
-      ]
+      "endDate": "2025-02-15"
     }
   ],
   "certificates": [
@@ -237,7 +224,7 @@
         "Software Testing",
         "UX & UI Design",
         "Social Media Marketing",
-        "Business & Economics Strategy",
+        "Business & Economics Strategy"
       ]
     }
   ],
