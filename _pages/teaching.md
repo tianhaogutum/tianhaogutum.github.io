@@ -1,15 +1,21 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Materials for courses I taught at the Technical University of Munich.
+title: teaching
+description: courses I taught at the Technical University of Munich (as TA)
 nav: true
 nav_order: 6
 ---
 
-## Teaching Experience at Technical University of Munich
+### The responsibilities as a Teaching Assistant
+
+- Delivered tutorial lectures to students.
+- Independently wrote a full set of lesson materials.
+- Assisted in preparing practice questions.
+- Supported professors with grading assignments and exam papers.
 
 ### Teaching Assistant of Linear Algebra (Apr 2024 - Jun 2024)
+
 - Delivered tutorial lectures to students.
 - Independently wrote a full set of lesson materials.
 - Assisted in preparing practice questions.
