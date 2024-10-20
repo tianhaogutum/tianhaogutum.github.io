@@ -15,7 +15,7 @@ nav_order: 6
 
 ### Teaching Assistant of Linear Algebra (Apr 2024 - Jun 2024)
 
-Covers vector spaces, matrix operations, linear transformations, systems of linear equations, eigenvalues and eigenvectors, and orthogonality
+- Covers vector spaces, matrix operations, linear transformations, systems of linear equations, eigenvalues and eigenvectors, and orthogonality
 
 ### Teaching Assistant of Discrete Probability (Apr 2024 - Jun 2024)
 - Delivered tutorial lectures to students.
