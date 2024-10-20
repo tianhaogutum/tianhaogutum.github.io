@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: courses I taught at the Technical University of Munich (as TA)
+description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
@@ -54,3 +54,4 @@ nav_order: 6
 ---
 
 Feel free to reach out for more details or specific materials from each course!
+
