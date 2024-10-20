@@ -23,6 +23,4 @@ Let’s be real: coming from an ordinary family, this journey has been more chal
 
 While I was busy decoding algorithms, ChatGPT popped onto the scene, and I realized I was living in a tech revolution. I’m lucky to have a blend of international flair, youthful exuberance, and the uncanny ability to learn faster than a hot pot boils (seriously, it’s like a superpower).
 
-Now that I’ve got my diploma in hand, I know this is just the opening chapter of my adventure. So, let’s see what the next plot twist has in store!
-
-You can reach me via email at [tianhao.gu@tum.de](mailto:tianhao.gu@tum.de), connect with me on [LinkedIn](https://www.linkedin.com/in/tianhao-gu-tum/), or [download my CV](assets/pdf/cv_tianhao.pdf).
+Now that I’ve got my diploma in hand, I know this is just the opening chapter of my adventure. So, let’s see what the next plot twist has in store.
