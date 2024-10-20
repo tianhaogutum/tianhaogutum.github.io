@@ -167,12 +167,14 @@
     },
     {
       "institution": "École Polytechnique",
+      "location": "Remote",
       "studyType": "EuroTeQ",
       "startDate": "2023-08-31",
       "endDate": "2025-02-15"
     },
     {
       "institution": "Eindhoven University of Technology",
+      "location": "Remote",
       "studyType": "EuroTeQ",
       "startDate": "2023-08-31",
       "endDate": "2025-02-15"
