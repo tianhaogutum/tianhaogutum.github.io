@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: M.Sc + B.Sc Computer Science @TUM | Research Assistant @Huawei | Honored Teaching Assistant @TUM
 
 profile:
   align: right
