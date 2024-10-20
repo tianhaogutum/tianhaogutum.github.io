@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-### The responsibilities as a Teaching Assistant
+### The Responsibilities as a Teaching Assistant at Technical University of Munich
 
 - Delivered tutorial lectures to students
 - Independently wrote a full set of lesson materials
