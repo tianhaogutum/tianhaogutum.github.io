@@ -158,46 +158,25 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Foundations of UX Design",
+      "date": "2024-01-01",
+      "issuer": "Google",
+      "url": "https://coursera.org/share/6ae55ed9ce93dc20f298b993bdeb2bec",
+      "icon": "fa-solid fa-laptop"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Neural Networks and Deep Learning",
+      "date": "2024-01-01",
+      "issuer": "Coursera",
+      "url": "https://coursera.org/share/fef8f7fdb73f5b47abc1866c50074e3f",
+      "icon": "fa-solid fa-brain"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Social Media Marketing Certificate",
+      "date": "2024-01-01",
+      "issuer": "Meta",
+      "url": "https://coursera.org/share/5e0365ac35a5cb3a1fd327f926377d7f",
+      "icon": "fa-solid fa-comments"
     }
   ],
   "publications": [
