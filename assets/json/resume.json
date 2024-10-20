@@ -27,6 +27,54 @@
       "highlights": [
         "Optimized algorithms such as 83Code and CRC."
       ]
+    },
+    {
+      "name": "LIM Immobilien Verwaltung Holding GmbH",
+      "position": "Intern, Data Analyst",
+      "url": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Conducted property valuation and developed software solutions.",
+      "highlights": [
+        "Conducted property valuation for land in Munich, focusing on commercial and hospitality sectors using income approach and market analysis.",
+        "Developed software to automate rent payment processing with API integration for bank statement retrieval."
+      ]
+    },
+    {
+      "name": "Lingtu.de EdTech",
+      "position": "Co-Founder, Chief Technology Officer",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2024-08-01",
+      "summary": "Built educational platforms for international students leveraging advanced technologies.",
+      "highlights": [
+        "Created top-tier platforms offering resources for language learning, programming courses, and career guidance.",
+        "Employed AI to refine course content segmentation and provided multilingual delivery."
+      ]
+    },
+    {
+      "name": "Technical University of Munich",
+      "position": "Assistant Teacher, Informatics Department",
+      "url": "",
+      "startDate": "2022-09-01",
+      "endDate": "2023-09-01",
+      "summary": "Delivered tutorial lectures and supported various courses.",
+      "highlights": [
+        "Achieved a GPA in the top 1% for mathematics modules.",
+        "Delivered tutorial lectures to over 180 students and independently created a complete set of lesson materials.",
+        "Assisted in preparing practice questions and supported professors with grading assignments and exam papers for courses including Algorithms, Programming Theory, Distributed Systems, Theory of Informatics, Numerical Programming, Linear Algebra, and Discrete Mathematics."
+      ]
+    },
+    {
+      "name": "Feixiang Gongcheng Intelligent Technology Co., Ltd",
+      "position": "Summer Intern, AI & ML",
+      "url": "",
+      "startDate": "2022-07-01",
+      "endDate": "2022-08-31",
+      "summary": "Directed Gen-AI automation projects for healthcare and medical fields.",
+      "highlights": [
+        "Led initiatives in AI automation for social media within the healthcare and medical sector."
+      ]
     }
   ],
   "volunteer": [
