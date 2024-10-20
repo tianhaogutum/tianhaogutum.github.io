@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Honored Teaching Assistant at Technical University of Munich
+title: teaching
 nav: true
 nav_order: 6
 ---
