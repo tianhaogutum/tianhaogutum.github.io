@@ -26,4 +26,4 @@ While I was busy decoding algorithms, ChatGPT popped onto the scene, and I reali
 
 Now that I’ve got my diploma in hand, I know this is just the opening chapter of my adventure. So, let’s see what the next plot twist has in store!
 
-You can reach me via email at [tianhao.gu@tum.de](mailto:tianhao.gu@tum.de), connect with me on [LinkedIn](https://www.linkedin.com/in/tianhao-gu-tum/), or [download my CV](assets/pdf/cv_tianhao.pdf).
+You can reach me via email at [tianhao.gu@tum.de](mailto:tianhao.gu@tum.de), connect with me on [LinkedIn](https://www.linkedin.com/in/tianhao-gu-tum/), [Github](https://github.com/tianhaogutum), or [download my CV](assets/pdf/cv_tianhao.pdf).
