@@ -1,11 +1,11 @@
 ---
 layout: page
-title: operating systems
+title: Operating Systems
 importance: 3
 category: devCourses
 ---
 
-In the operating systems course, I completed a 12-week coding assignment covering key areas such as process management, memory allocation, file systems, and concurrency control. The primary development language used was C.
+In the operating systems course, I completed a 12-week coding assignment covering key areas such as process management, memory allocation, file systems, and concurrency control. The primary development language used was C, main platform: Linux, Windows, MacOS.
 
 **Content Outline**  
 - Chapter 00: Organizational Information  
