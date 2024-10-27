@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generative AI and LLM (Unbiased Search Engine)
+title: Bachelor Seminar Unbiased Search Engine with Generative AI and LLM 
 description: redirects to my github page
 img: assets/img/genAI.png
 redirect: https://github.com/tianhaogutum/genAI_unbiased_search/tree/main
