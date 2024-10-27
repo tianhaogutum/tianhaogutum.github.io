@@ -10,7 +10,8 @@ giscus_comments: true
 
 ### Overview
 
-My bachelor thesis explores the application of decentralized control systems for drone swarms in various fields, including agriculture, logistics, military, and public rescue. Traditionally, centralized controllers manage swarm decision-making, but this centralized approach limits scalability due to bottlenecks in communication and processing. My research investigates the use of deep reinforcement learning (DRL) to implement decentralized control, which improves scalability and enables responsive decision-making directly at the drone level.
+My bachelor thesis explores the application of decentralized control systems for drone swarms in various fields, including agriculture, logistics, military, and public rescue. Traditionally, centralized controllers manage swarm decision-making, but this centralized approach limits scalability due to bottlenecks in communication and processing. My research investigates the use of deep reinforcement learning (DRL) to implement decentralized control, which improves scalability and enables responsive decision-making directly at the drone level and then I combine Search-Based testing with Scenario-Based testing to conduct tesing on the controllers and see wehther it could
+identify "edge cases".
 
 ### Approach
 
