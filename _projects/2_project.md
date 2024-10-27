@@ -3,7 +3,7 @@ layout: page
 title: Effective of Search-Based Testing on a Deep Reinforcement-Learned Controller
 description: My bachelorthesis during my study at TUM.
 img: assets/img/thesis.png
-importance: 2
+importance: 1
 category: keyInternship
 giscus_comments: true
 ---
