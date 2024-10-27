@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 8
+title: Flight Search System with React, Java, Spring Boot
 description: an other project with a background image and giscus comments
-img: assets/img/gamma.png
+img: assets/img/react.png
 importance: 2
 category: keyInternship
 giscus_comments: true
