@@ -8,30 +8,20 @@ category: keyInternship
 related_publications: false
 ---
 
-## iLabX - The Internet Laboratory  
+From September 2024 to October 2024, I worked as a research assistant, contributing to projects including the "83 Code" initiative and CRC (Cyclic Redundancy Check) optimization. In this role, I engaged in developing and testing algorithms to enhance error-detection capabilities and improve computational efficiency for digital systems. My work involved:
 
-### Overview of the iLabX Course
+- Conducting analysis on CRC algorithms to identify optimization opportunities that reduce computational load while maintaining error-detection accuracy.
+- Assisting in the development of "83 Code," focusing on improving data integrity and resilience within large-scale distributed systems.
+- Collaborating with senior researchers to document findings and implement prototype solutions.
+- Running simulations and stress tests to validate the performance improvements of optimized CRC processes.
 
-The Internet connects nearly everything we rely on today. In the iLabX course, I delved into the mechanisms powering the Internet, learned essential protocols, and gained hands-on experience building a fully functional Internet environment within a virtual lab.
+This position allowed me to deepen my expertise in data verification techniques and contribute meaningfully to the advancement of robust and efficient coding strategies for high-reliability applications.
 
-### Course Structure & Content
 
-This self-paced course allowed me to structure my own study schedule, allocating 4-6 hours per module across six comprehensive parts:
 
-- **Signals and Cables**: Explored physical transmission mediums (twisted pairs, optical fiber), signal encoding, and data transmission fundamentals.
-- **Internet Protocol (IP)**: Learned about IPv4 and IPv6, subnetting, routing protocols, and IP address configurations.
-- **Routing**: Mastered dynamic routing, Autonomous Systems, and the algorithms (Dijkstra, Bellman-Ford) that guide data paths.
-- **Transmission Control Protocol (TCP) and UDP**: Examined data reliability, congestion control, and the stateful communication mechanisms of TCP/UDP.
-- **Domain Name System (DNS) and Web Servers**: Set up a DNS, configured a web server, and secured the server with HTTPS protocols.
-- **NAT, DNS64/NAT64, and Firewalls**: Applied Network Address Translation, configured NAT64 and DNS64, and implemented firewall rules for network security.
 
-### Hands-On Experience
 
-Using a virtual Internet laboratory, I set up actual Internet protocols to establish my own simulated Internet environment. This allowed me to apply real-world Internet mechanics, from signal encoding to web server configuration and beyond. The course’s interactive elements, including practical exercises and projects, allowed me to gain functional knowledge on topics such as IP forwarding, DNS zone configuration, and firewall management.
 
-### iLabX Highlights
-
-- **Interactive Laboratory**: Built a virtual Internet environment with real tools used in industry.
 - **Flexible Learning**: Tailored learning experience with videos, written content, and practical tasks to reinforce each topic.
 - **Expert Insights**: Included a feature interview with Vint Cerf, co-inventor of the Internet, discussing the network’s origins and future.
 
