@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flight Search System with React, Java, Spring Boot
+title: Software Engineering Internship Flight Search Website Full Stack 
 description: redirects to my github page
 img: assets/img/react.png
 redirect: https://github.com/NullRivalException
