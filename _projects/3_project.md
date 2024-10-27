@@ -1,38 +1,38 @@
 ---
 layout: page
-title: Full Network Layer Coding with CISCO
-description: 02.2024-03.2024 During a one-month internship, I intensively developed code for the OSI model’s network layer using Cisco.
+title: High Precision Computation
+description: 12.2024-03.2024 During a four-month internship, our team successfully reimplement gamma correction algorithm using C.
 img: assets/img/react.png
 importance: 1
 category: keyInternship
 related_publications: false
 ---
 
-## iLabX - The Internet Laboratory  
+## High Precision Computation Project - Image Processing Grayscale Conversion and Gamma Correction
 
-### Overview of the iLabX Course
+### Project Overview
 
-The Internet connects nearly everything we rely on today. In the iLabX course, I delved into the mechanisms powering the Internet, learned essential protocols, and gained hands-on experience building a fully functional Internet environment within a virtual lab.
+In this project, we developed an algorithm in C to convert a color image into grayscale and adjust the brightness of the grayscale image through gamma correction. This project deepened our understanding of fundamental image processing techniques and provided practical experience in applying mathematical formulas to image data transformation.
 
-### Course Structure & Content
+### Project Structure & Content
 
-This self-paced course allowed me to structure my own study schedule, allocating 4-6 hours per module across six comprehensive parts:
+The project is divided into two main phases:
 
-- **Signals and Cables**: Explored physical transmission mediums (twisted pairs, optical fiber), signal encoding, and data transmission fundamentals.
-- **Internet Protocol (IP)**: Learned about IPv4 and IPv6, subnetting, routing protocols, and IP address configurations.
-- **Routing**: Mastered dynamic routing, Autonomous Systems, and the algorithms (Dijkstra, Bellman-Ford) that guide data paths.
-- **Transmission Control Protocol (TCP) and UDP**: Examined data reliability, congestion control, and the stateful communication mechanisms of TCP/UDP.
-- **Domain Name System (DNS) and Web Servers**: Set up a DNS, configured a web server, and secured the server with HTTPS protocols.
-- **NAT, DNS64/NAT64, and Firewalls**: Applied Network Address Translation, configured NAT64 and DNS64, and implemented firewall rules for network security.
+- **Grayscale Encoding**: We use a weighted average method to convert the RGB values of a color image into grayscale. By adjusting the RGB weighting coefficients (a, b, c), we can control the sensitivity to different colors.
+- **Gamma Correction**: Using a gamma correction formula based on human visual characteristics, we adjusted the brightness and contrast of the grayscale image. We experimented with different gamma values to observe their effects on the brightness of the image.
 
 ### Hands-On Experience
 
-Using a virtual Internet laboratory, I set up actual Internet protocols to establish my own simulated Internet environment. This allowed me to apply real-world Internet mechanics, from signal encoding to web server configuration and beyond. The course’s interactive elements, including practical exercises and projects, allowed me to gain functional knowledge on topics such as IP forwarding, DNS zone configuration, and firewall management.
+The project utilizes a custom PPM image format. By configuring input and output parameters, the program reads pixel data from a file, converts it to grayscale, applies gamma correction, and outputs a new image file. Key steps in the project include:
 
-### iLabX Highlights
+- Converting RGB values to grayscale using a weighted average formula.
+- Experimenting with different gamma values to observe changes in image brightness.
+- Providing flexible input parameters, allowing users to customize paths, RGB weights, gamma values, etc.
 
-- **Interactive Laboratory**: Built a virtual Internet environment with real tools used in industry.
-- **Flexible Learning**: Tailored learning experience with videos, written content, and practical tasks to reinforce each topic.
-- **Expert Insights**: Included a feature interview with Vint Cerf, co-inventor of the Internet, discussing the network’s origins and future.
+### Project Highlights
 
-For more details, visit our [Twitter](https://twitter.com/), [YouTube](https://youtube.com/), or [Blog](https://ilabx.blog). Those interested in future updates can subscribe by emailing [ilabx@ilabxp.com](mailto:ilabx@ilabxp.com).
+- **Modular Implementation**: Each step of the algorithm is designed as an independent function, making the code maintainable and extensible.
+- **Performance Optimization**: Different versions of the algorithm were implemented to compare performance, with optional SIMD acceleration.
+- **Parameterized Design**: Flexible input parameters and error-checking mechanisms make the program user-friendly and adaptable.
+
+Through this project, we not only learned the basics of grayscale conversion and gamma correction but also improved our programming skills and algorithm optimization techniques. This project provides a solid foundation for tackling more complex image processing tasks in the future.
