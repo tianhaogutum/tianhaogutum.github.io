@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Assistant - Projects at Huawei
-description: 02.2024-03.2024 During a one-month internship, I intensively developed code for the OSI model’s network layer using CISCO, including IP, DNS, BGP, ICMP, TCP.. 
+description: 09.2024-10.2024 Works as research assistant on projects such as 83 Code, CRC optimization
 img: assets/img/huawei.jpg
 importance: 2
 category: keyInternship
