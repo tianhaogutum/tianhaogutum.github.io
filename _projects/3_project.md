@@ -2,7 +2,7 @@
 layout: page
 title: project 3 with very long name
 description: a project that redirects to another website
-img: assets/img/react.jpg
+img: assets/img/react.png
 redirect: https://unsplash.com
 importance: 3
 category: keyInternship
