@@ -1,7 +1,6 @@
 ---
 layout: page
 title: operating systems
-img: assets/img/1.jpg
 importance: 3
 category: devCourses
 ---
