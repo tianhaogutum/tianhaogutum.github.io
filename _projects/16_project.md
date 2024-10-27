@@ -5,4 +5,19 @@ importance: 4
 category: devCourses
 ---
 
-In the software engineering course, I completed a 10-week coding assignment covering key areas such as software design principles, version control, unit testing, and agile development practices. The primary development language used was Java.
+In the pattern-oriented software development course, I studied the principles and application of design patterns in software systems, covering various types of patterns and their use in analysis, design, and existing systems.
+
+**Course Content**  
+- Patterns as an approach for structuring and describing expert knowledge
+- Pattern-oriented software development
+- Different types of patterns:
+  - **Architecture Patterns**
+  - **Design Patterns**
+  - **Analysis Patterns**
+  - **Process Patterns**
+  - **Project Patterns**
+  - Classification and combination of patterns
+- Use of Patterns:
+  - In analysis
+  - In design
+  - In existing models/systems
