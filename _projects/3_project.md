@@ -36,3 +36,5 @@ The project utilizes a custom PPM image format. By configuring input and output 
 - **Parameterized Design**: Flexible input parameters and error-checking mechanisms make the program user-friendly and adaptable.
 
 Through this project, we not only learned the basics of grayscale conversion and gamma correction but also improved our programming skills and algorithm optimization techniques. This project provides a solid foundation for tackling more complex image processing tasks in the future.
+
+The code are available on [GitHub](https://github.com/tianhaogutum/gamma_correction_optimization).
