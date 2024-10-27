@@ -5,7 +5,7 @@ importance: 4
 category: devCourses
 ---
 
-In the software engineering course, I completed a 10-week coding assignment covering key areas such as software design principles, version control, unit testing, and agile development practices. The primary development language used was Java.
+Famous "PGDP" lab course provides by TUM. Due to the closure of the Bitbucket server, the code is temporarily unavailable.
 
 **Content**  
 The lab course complements IN0001 by covering practical programming tasks that include:
