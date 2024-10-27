@@ -5,11 +5,7 @@ importance: 3
 category: devCourses
 ---
 
-In the database course, I completed a 10-week coding assignment covering key areas such as database schema design, data querying and optimization, and transaction management. Due to the closure of the Bitbucket server, the code is temporarily unavailable. Below is the course overview:
-
-**Course Overview: Grundlagen: Datenbanken**
-
-Prof. Alfons Kemper, Ph.D.  
+In the database course, I completed a 10-week coding assignment covering key areas such as database schema design, data querying and optimization, and transaction management. Due to the closure of the Bitbucket server, the code is temporarily unavailable.   
 
 The course introduces fundamental database concepts and essential knowledge for practical database use. Topics covered include:
 
