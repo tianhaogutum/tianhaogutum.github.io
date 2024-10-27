@@ -4,7 +4,7 @@ title: Full Network Layer Coding with CISCO
 description: 02.2024-03.2024 During a one-month internship, I intensively developed code for the OSI model’s network layer using Cisco.
 img: assets/img/iLabX-Logo.jpg
 importance: 1
-category: work
+category: keyInternship
 related_publications: false
 ---
 
