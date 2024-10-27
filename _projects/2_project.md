@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Controller
+title: Bachelorthesis Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Controller
 description: 05.2024-10.2024 My bachelorthesis during my study at TUM
 img: assets/img/drone.png
 importance: 1
