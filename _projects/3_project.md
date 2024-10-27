@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computer Architecture Internship - High Precision Computation with C and Assembly
-description: 12.2023-03.2024 During a four-month internship, our team successfully reimplemented the gamma correction and grayscale conversion algorithm through numerous local and global optimizations. We conducted an in-depth study of the Taylor series, enabling our calculations to match the standard library’s results with a 1:1 accuracy.
+description: 12.2023-03.2024 during a four-month internship, our team successfully reimplemented the gamma correction and grayscale conversion algorithm through numerous local and global optimizations. We conducted an in-depth study of the Taylor series, enabling our calculations to match the standard library’s results with a 1:1 accuracy
 img: assets/img/gamma2.png
 importance: 2
 category: keyInternship
