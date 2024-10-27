@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Algorithms
-importance: 4
+importance: 3
 category: devCourses
 ---
 
-In the algorithms and data structures course (IN0007), I studied foundational concepts in computer science, including complexity analysis, data structures, and algorithmic techniques.
+In the algorithms and data structures course (IN0007), I studied foundational concepts in computer science, including complexity analysis, data structures, and algorithmic techniques. Due to the closure of the Bitbucket server, the code is temporarily unavailable.
 
 **Course Content Overview**
 
