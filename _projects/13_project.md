@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Computer Architecture & Assembly Language
-img: assets/img/6.jpg
 importance: 4
 category: devCourses
 ---
