@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Software Engineering
-img: assets/img/6.jpg
+title: Patterns in Software
 importance: 4
 category: devCourses
 ---
