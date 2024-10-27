@@ -1,11 +1,11 @@
 ---
 layout: page
 title: C++ Concept
-importance: 4
+importance: 3
 category: devCourses
 ---
 
-In the software engineering course, I completed a 10-week coding assignment covering key areas such as software design principles, version control, unit testing, and agile development practices. The primary development language used was Java.
+I completed assignments covering modern C++ programming concepts, including syntax, strong typing, resource management, procedural programming, object-oriented programming, generic programming, and compile-time programming. The primary development language used was C++. The code is available, pls contact me if you want to view the code.
 
 **Course Overview**  
 This course covers fundamental and advanced concepts of modern C++ programming. Topics include:
