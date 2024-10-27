@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SQL: Database
+title: SQL Database
 importance: 3
 category: devCourses
 ---
