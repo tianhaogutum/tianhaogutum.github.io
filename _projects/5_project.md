@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Operating Systems
+title: C Operating Systems
 importance: 3
 category: devCourses
 ---
