@@ -5,7 +5,6 @@ description: 05.2024-10.2024 My bachelorthesis during my study at TUM
 img: assets/img/drone.png
 importance: 1
 category: keyInternship
-giscus_comments: true
 ---
 
 ### Overview
@@ -25,7 +24,7 @@ The proposed approach employs metaheuristic search techniques for scenario-based
 
 ### Experimental Setup
 
-The experiments simulate a drone swarm navigating in a three-dimensional space with obstacles while directed toward a static goal. The **OpenSBT** framework, developed as part of the research, facilitates scenario-based testing by integrating various search algorithms, safety metrics, and simulations into a modular structure. The experimental code and framework are available on [GitHub](https://github.com).
+The experiments simulate a drone swarm navigating in a three-dimensional space with obstacles while directed toward a static goal. The **OpenSBT** framework, developed as part of the research, facilitates scenario-based testing by integrating various search algorithms, safety metrics, and simulations into a modular structure. The experimental code and framework are available on [GitHub](https://github.com/tianhaogutum/bachelorthesis).
 
 ### Results & Insights
 
