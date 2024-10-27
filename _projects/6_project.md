@@ -5,7 +5,7 @@ importance: 3
 category: devCourses
 ---
 
-In the IT security course, I completed a 9-week coding assignment covering key areas such as cryptographic algorithms, network security protocols, vulnerability assessment, and access control mechanisms. The primary development language used was Python.
+In the IT security course, I completed a 9-week coding assignment covering key areas such as cryptographic algorithms, network security protocols, vulnerability assessment, and access control mechanisms. The primary development language used was Python. Due to the closure of the Bitbucket server, the code is temporarily unavailable.
 
 **Course Content**  
 - Basic terms in IT security  
