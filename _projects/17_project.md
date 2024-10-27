@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Assistant - Projects at Huawei
-description: 09.2024-10.2024 Works as research assistant on different projects, focus on internet and distributed systems
+description: 09.2024-10.2024 works as research assistant on different projects, focus on internet and distributed systems
 img: assets/img/huawei.jpg
 importance: 3
 category: keyInternship
