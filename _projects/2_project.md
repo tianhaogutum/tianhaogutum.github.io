@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bachelorthesis - Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Controller
-description: 05.2024-10.2024 My bachelorthesis during my study at TUM
+description: 05.2024-10.2024 my bachelorthesis during my study at TUM, focus on autonomous driving testing framework, reinforcement learning traning of autonomous drone swarms and scenario-based testing combined with metaheuristic search algorithms
 img: assets/img/drone2.png
 importance: 1
 category: keyInternship
