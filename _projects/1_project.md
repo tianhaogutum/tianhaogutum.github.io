@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bachelor Internship - Network & Internet Laboratory
-description: 02.2024-03.2024 During a one-month internship, I intensively developed code for the OSI model’s network layer using CISCO, including IP, DNS, BGP, ICMP, TCP.. 
+description: 02.2024-03.2024 during a one-month internship, I intensively developed code for the OSI model’s network layer using CISCO, including IP, DNS, BGP, ICMP, TCP and so on 
 img: assets/img/iLabX-Logo.jpg
 importance: 2
 category: keyInternship
