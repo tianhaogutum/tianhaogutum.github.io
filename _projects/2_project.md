@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: My bachelorthesis during my study at TUM.
-img: assets/img/3.jpg
+img: assets/img/thesis.png
 importance: 2
 category: keyInternship
 giscus_comments: true
