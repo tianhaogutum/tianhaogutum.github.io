@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Engineering
+title: Ocaml Functional Programming
 img: assets/img/6.jpg
 importance: 4
 category: devCourses
