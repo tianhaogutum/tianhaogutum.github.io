@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Java Programming
-img: assets/img/6.jpg
 importance: 4
 category: devCourses
 ---
