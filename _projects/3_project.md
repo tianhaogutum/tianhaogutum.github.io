@@ -2,7 +2,7 @@
 layout: page
 title: High Precision Computation
 description: 12.2024-03.2024 During a four-month internship, our team successfully reimplement gamma correction algorithm using C.
-img: assets/img/gamma.png
+img: assets/img/gamma2.png
 importance: 1
 category: keyInternship
 related_publications: false
