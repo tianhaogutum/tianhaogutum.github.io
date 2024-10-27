@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Patterns in Software
-importance: 4
+importance: 3
 category: devCourses
 ---
 
-In the pattern-oriented software development course, I studied the principles and application of design patterns in software systems, covering various types of patterns and their use in analysis, design, and existing systems.
+In the pattern-oriented software development course, I studied the principles and application of design patterns in software systems, covering various types of patterns and their use in analysis, design, and existing systems. Due to the closure of the Bitbucket server, the code is temporarily unavailable.
 
 **Course Content**  
 - Patterns as an approach for structuring and describing expert knowledge
