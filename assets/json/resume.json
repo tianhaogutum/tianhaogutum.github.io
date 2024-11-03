@@ -18,6 +18,16 @@
   },
   "work": [
     {
+      "name": "Student Initiative TUfast Racing Team",
+      "position": "Automotive Engineer",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": "2025-09-01",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
       "name": "Huawei 2012 Lab",
       "position": "Research Assistant",
       "url": "",
@@ -39,7 +49,7 @@
     },
     {
       "name": "LIM Immobilien Verwaltung Holding GmbH",
-      "position": "Intern, Data Analyst",
+      "position": "Digital Transformation Consultant",
       "url": "",
       "startDate": "2024-01-05",
       "endDate": "2024-07-25",
@@ -49,7 +59,7 @@
     },
     {
       "name": "Lingtu.de EdTech",
-      "position": "Co-Founder, Chief Technology Officer",
+      "position": "Chief Technology Officer & Social Media Manager",
       "url": "",
       "startDate": "2022-09-01",
       "endDate": "2024-02-01",
@@ -59,30 +69,12 @@
     },
     {
       "name": "Feixiang Gongcheng Intelligent Technology Co., Ltd",
-      "position": "Summer Intern, AI & ML",
+      "position": "Machine Learning Technical Consultant",
       "url": "",
       "startDate": "2023-09-01",
       "endDate": "2023-10-15",
       "summary": "",
       "highlights": []
-    },
-    {
-      "name": "Go Asia Deutschland GmbH",
-      "position": "Customer Service Staff",
-      "startDate": "2022-09-01",
-      "endDate": "2023-02-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "TRUST Promotion",
-      "position": "IT Support Specialist",
-      "url": "",
-      "startDate": "2022-02-01",
-      "endDate": "2023-10-31",
-      "summary": "",
-      "highlights": [
-      ]
     }
   ],
   "volunteer": [
