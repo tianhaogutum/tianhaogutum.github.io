@@ -80,21 +80,19 @@
       "url": "",
       "startDate": "2022-02-01",
       "endDate": "2023-10-31",
-      "summary": "Provided IT support for major events",
+      "summary": "",
       "highlights": [
-        "Supported events such as ISPO 2023, EC 2022, and Drinktec 2022 in Munich",
-        "Delivered technical assistance to ensure smooth operations during major exhibitions and conferences"
       ]
     }
   ],
   "volunteer": [
     {
-      "name": "UEFA EURO 2024",
+      "name": "UEFA EURO 2024 Munich",
       "position": "Information & IT Support",
       "url": "",
       "startDate": "2024-06-20",
       "endDate": "2024-07-31",
-      "summary": "Provided information and IT support during UEFA EURO 2024 at Fan Zone in Munich",
+      "summary": "",
       "highlights": []
     }
   ],
@@ -107,7 +105,7 @@
       "studyType": "MSc",
       "startDate": "2024-09-01",
       "endDate": "2026-06-30",
-      "score": "Expected graduation in June 2026",
+      "score": "",
       "courses": []
     },
     {
@@ -120,9 +118,6 @@
       "endDate": "2024-08-31",
       "score": "",
       "courses": [
-        "Consulting",
-        "Software Service Design",
-        "Business Prototype Methodology"
       ]
     },
     {
@@ -135,9 +130,6 @@
       "endDate": "2024-06-30",
       "score": "TOP 1% GPA in Math | 1 Year ahead of Average Graduation",
       "courses": [
-        "6 times Teaching Assistant | TOP 1% GPA in Math | 1 Year ahead of Average Graduation",
-        "Computation Theory, Programming, Economics, Management",
-        "Bachelor Thesis: Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Swarm Controller"
       ]
     },
     {
@@ -149,8 +141,6 @@
       "endDate": "2021-06-30",
       "score": "GPA Top 1%",
       "courses": [
-        "Pre-Study @ Goethe University",
-        "German Summer Study @ Humboldt-Institute"
       ]
     },
     {
