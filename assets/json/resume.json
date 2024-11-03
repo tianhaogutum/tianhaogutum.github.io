@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Tianhao Gu",
-    "label": "M.Sc + B.Sc Computer Science @TUM | Data Analyst and Machine Learning Engineer",
+    "label": "M.Sc Computer Science @TUM, Technical Consultant",
     "image": "",
     "email": "tianhao.gu@tum.de",
-    "phone": "+49(0)177 7040156",
+    "phone": "",
     "url": "",
     "summary": "",
     "location": {
@@ -23,9 +23,8 @@
       "url": "",
       "startDate": "2024-09-01",
       "endDate": "2024-10-01",
-      "summary": "Assisted with the optimization of algorithms in lab projects",
+      "summary": "",
       "highlights": [
-        "Optimized algorithms such as 83Code and CRC"
       ]
     },
     {
@@ -34,11 +33,8 @@
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "2024-07-01",
-      "summary": "Delivered tutorial lectures and supported various courses",
+      "summary": "",
       "highlights": [
-        "Achieved a GPA in the top 1% for mathematics modules",
-        "Delivered tutorial lectures to over 180 students and independently created a complete set of lesson materials",
-        "Assisted in preparing practice questions and supported professors with grading assignments and exam papers for courses including Algorithms, Programming Theory, Distributed Systems, Theory of Informatics, Numerical Programming, Linear Algebra, and Discrete Mathematics"
       ]
     },
     {
@@ -47,10 +43,8 @@
       "url": "",
       "startDate": "2024-01-05",
       "endDate": "2024-07-25",
-      "summary": "Conducted property valuation and developed software solutions",
+      "summary": "",
       "highlights": [
-        "Conducted property valuation for land in Munich, focusing on commercial and hospitality sectors using income approach and market analysis",
-        "Developed software to automate rent payment processing with API integration for bank statement retrieval"
       ]
     },
     {
@@ -59,10 +53,8 @@
       "url": "",
       "startDate": "2022-09-01",
       "endDate": "2024-02-01",
-      "summary": "Built educational platforms for international students leveraging advanced technologies",
+      "summary": "",
       "highlights": [
-        "Created top-tier platforms offering resources for language learning, programming courses, and career guidance",
-        "Employed AI to refine course content segmentation and provided multilingual delivery"
       ]
     },
     {
@@ -71,17 +63,15 @@
       "url": "",
       "startDate": "2023-09-01",
       "endDate": "2023-10-15",
-      "summary": "Directed Gen-AI automation projects for healthcare and medical fields",
-      "highlights": [
-        "Led initiatives in AI automation for social media within the healthcare and medical sector"
-      ]
+      "summary": "",
+      "highlights": []
     },
     {
       "name": "Go Asia Deutschland GmbH",
       "position": "Customer Service Staff",
       "startDate": "2022-09-01",
       "endDate": "2023-02-01",
-      "summary": "Provided customer service and support",
+      "summary": "",
       "highlights": []
     },
     {
