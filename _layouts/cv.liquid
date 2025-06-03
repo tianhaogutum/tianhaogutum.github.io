@@ -6,15 +6,6 @@ layout: default
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
-        {% if page.cv_pdf %}
-          <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
-          ></a>
-        {% endif %}
       </h1>
       {% if page.description %}
         <p class="post-description">{{ page.description }}</p>
@@ -52,15 +43,6 @@ layout: default
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
-        {% if page.cv_pdf %}
-          <a
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="float-right"
-            ><i class="fa-solid fa-file-pdf"></i
-          ></a>
-        {% endif %}
       </h1>
       {% if page.description %}
         <p class="post-description">{{ page.description }}</p>
@@ -69,51 +51,48 @@ layout: default
 
     <article>
       <div class="cv">
-        {% for data in site.data.resume %}
-          {% if site.jsonresume and site.jsonresume.size > 0 %}
-            {% unless site.jsonresume contains data[0] %}
-              {% continue %}
-            {% endunless %}
-          {% endif %}
-          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
-          <a class="anchor" id="{{ data[0] }}"></a>
-          <div class="card mt-3 p-3">
-            {% if data[0] == 'social_activities' %}
-              <h3 class="card-title font-weight-medium">Social Activities</h3>
-            {% else %}
-              <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
-            {% endif %}
-            <div>
-              {% case data[0] %}
-                {% when 'basics' %}
-                  {% include resume/basics.liquid %}
-                {% when 'education' %}
-                  {% include resume/education.liquid %}
-                {% when 'work' %}
-                  {% include resume/work.liquid %}
-                {% when 'social_activities' %}
-                  {% include resume/social_activities.liquid %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid %}
-                {% when 'awards' %}
-                  {% include resume/awards.liquid %}
-                {% when 'skills' %}
-                  {% include resume/skills.liquid %}
-                {% when 'publications' %}
-                  {% include resume/publications.liquid %}
-                {% when 'languages' %}
-                  {% include resume/languages.liquid %}
-                {% when 'interests' %}
-                  {% include resume/interests.liquid %}
-                {% when 'certificates' %}
-                  {% include resume/certificates.liquid %}
-                {% when 'references' %}
-                  {% include resume/references.liquid %}
-                {% else %}
+        {% for section in site.jsonresume %}
+          {% assign data = site.data.resume[section] %}
+          {% if data and data.size > 0 %}
+            <a class="anchor" id="{{ section }}"></a>
+            <div class="card mt-3 p-3">
+              {% if section == 'social_activities' %}
+                <h3 class="card-title font-weight-medium">Social Activities</h3>
+              {% else %}
+                <h3 class="card-title font-weight-medium">{{ section | capitalize }}</h3>
+              {% endif %}
+              <div>
+                {% case section %}
+                  {% when 'basics' %}
+                    {% include resume/basics.liquid %}
+                  {% when 'education' %}
+                    {% include resume/education.liquid %}
+                  {% when 'work' %}
+                    {% include resume/work.liquid %}
+                  {% when 'social_activities' %}
+                    {% include resume/social_activities.liquid %}
+                  {% when 'projects' %}
+                    {% include resume/projects.liquid %}
+                  {% when 'awards' %}
+                    {% include resume/awards.liquid %}
+                  {% when 'skills' %}
+                    {% include resume/skills.liquid %}
+                  {% when 'publications' %}
+                    {% include resume/publications.liquid %}
+                  {% when 'languages' %}
+                    {% include resume/languages.liquid %}
+                  {% when 'interests' %}
+                    {% include resume/interests.liquid %}
+                  {% when 'certificates' %}
+                    {% include resume/certificates.liquid %}
+                  {% when 'references' %}
+                    {% include resume/references.liquid %}
+                  {% else %}
 
-              {% endcase %}
+                {% endcase %}
+              </div>
             </div>
-          </div>
+          {% endif %}
         {% endfor %}
       </div>
     </article>

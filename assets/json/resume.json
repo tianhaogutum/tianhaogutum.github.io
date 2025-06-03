@@ -160,29 +160,19 @@
       "studyType": "Master of Science",
       "startDate": "2025-02-01",
       "endDate": "2027-02-28",
-      "score": "In Progress",
-      "courses": [
-        "Advanced Machine Learning",
-        "Computer Vision",
-        "Distributed Systems", 
-        "Advanced Algorithms",
-        "AI Safety and Ethics"
-      ]
+      "score": "In Progress"
     },
     {
-      "institution": "National Taiwan University (NTU)",
+      "institution": "National Taiwan University",
       "location": "Taipei, Taiwan",
       "url": "https://www.ntu.edu.tw/",
-      "area": "Academic Research in Machine Learning",
       "studyType": "Exchange Program",
       "startDate": "2025-02-01",
       "endDate": "2025-06-30",
       "score": "In Progress",
       "courses": [
         "Advanced Machine Learning Research",
-        "Computer Vision Applications",
-        "Deep Learning Theory",
-        "AI Research Methodology"
+        "Web3 Blockchain Technology"
       ]
     },
     {
@@ -195,13 +185,7 @@
       "endDate": "2025-01-31",
       "score": "4.0 GPA in Machine Learning Modules",
       "courses": [
-        "Linear Algebra",
-        "Discrete Math", 
-        "Mathematical Analysis",
-        "Probability & Statistics",
-        "Machine Learning",
-        "Software Engineering",
-        "Distributed Systems"
+        "4.0 GPA in Machine Learning Modules: Linear Algebra, Discrete Math, Mathematical Analysis, Probability & Statistics"
       ]
     }
   ],
@@ -254,6 +238,13 @@
       "issuer": "SAP",
       "url": "",
       "icon": "fa-solid fa-laptop"
+    },
+    {
+      "name": "Introduction to Social Media Marketing",
+      "date": "2023-11-16",
+      "issuer": "Meta",
+      "url": "https://coursera.org/verify/46LC7W734GMC",
+      "icon": "fa-brands fa-meta"
     },
     {
       "name": "Neural Networks and Deep Learning",
@@ -350,6 +341,20 @@
         "CARLA Simulator",
         "SLAM",
         "OpenAI Gym"
+      ]
+    },
+    {
+      "name": "Marketing & Business",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Social Media Marketing",
+        "Digital Marketing",
+        "UX Design",
+        "Business Analytics",
+        "Entrepreneurship",
+        "Product Development",
+        "Market Research"
       ]
     }
   ],

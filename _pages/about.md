@@ -13,308 +13,612 @@ profile:
     <p><i class="ti ti-location-filled"></i> Munich, 81539</p>
     <p><i class="ti ti-phone"></i> +49(0)1777040156</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 <div class="about-hero">
   <div class="hero-content">
-    <h1 class="hero-title">Welcome to My Digital Hub! 👋</h1>
-    <p class="hero-subtitle">Innovating at the intersection of AI, Research, and Real-World Impact</p>
+    <h1 class="hero-title">Tianhao Gu</h1>
+    <p class="hero-subtitle">Software Developer, AI Engineer, Data Analyst</p>
+    <p class="hero-institution">Technical University of Munich (TUM)</p>
   </div>
 </div>
 
-<div class="intro-section">
-  <div class="row align-items-center">
-    <div class="col-md-8">
-      <p class="lead">
-        Hi, I'm <strong>Tianhao Gu</strong>, a proud native of <strong>Chengdu, China</strong>—the land of hot pot and adorable pandas! 🐼 🌶️
-      </p>
-      
-      <div class="journey-highlight">
-        <h3>🚀 My Journey</h3>
-        <p>
-          I began my epic quest to master German at the tender age of 12, and by 21, I had successfully emerged from the hallowed halls of the <strong>Technical University of Munich</strong> (TUM), one of Germany's top universities, with both Bachelor's and Master's degrees in Computer Science.
-        </p>
-        
-        <p>
-          Let's be real: coming from an ordinary family, this journey has been more challenging than trying to eat spicy hot pot without breaking a sweat! But thanks to my <strong>stubbornness</strong>, <strong>adaptability</strong>, and an unhealthy dose of caffeine ☕, I made it through and feel incredibly proud.
-        </p>
+<div class="professional-summary">
+  <h2 class="section-title">Professional Summary</h2>
+  <p class="lead">
+    I am a dedicated Computer Science professional with comprehensive expertise in artificial intelligence, machine learning, 
+    and autonomous systems. Currently pursuing a Master of Science in Computer Science at the Technical University of Munich (TUM), 
+    I bring hands-on experience in deep reinforcement learning, search-based testing methodologies, and large-scale system optimization.
+  </p>
+  
+  <p>
+    My academic and professional journey encompasses significant contributions to autonomous vehicle development, 
+    AI-powered search systems, and enterprise digitalization initiatives. With a proven track record of leading multidisciplinary teams 
+    and delivering innovative solutions in both research and industry settings, I am committed to advancing the frontiers of 
+    technology through rigorous scientific inquiry and practical application.
+  </p>
+</div>
+
+<div class="academic-background">
+  <h2 class="section-title">Academic Excellence</h2>
+  <div class="education-grid">
+    <div class="education-item">
+      <h3>Master of Science in Computer Science</h3>
+      <p class="institution">Technical University of Munich (TUM)</p>
+      <p class="duration">2025 - 2027 (In Progress)</p>
+      <p class="description">Specialized focus on advanced machine learning, autonomous systems, and AI safety.</p>
+    </div>
+    
+    <div class="education-item">
+      <h3>Exchange Program</h3>
+      <p class="institution">National Taiwan University</p>
+      <p class="duration">February 2025 - June 2025</p>
+      <p class="description">Advanced Machine Learning Research and Web3 Blockchain Technology.</p>
+    </div>
+    
+    <div class="education-item">
+      <h3>Bachelor of Science in Computer Science</h3>
+      <p class="institution">Technical University of Munich (TUM)</p>
+      <p class="duration">2021 - 2025</p>
+      <p class="description">4.0 GPA in Machine Learning modules, with comprehensive foundation in algorithms, systems, and mathematical analysis.</p>
+    </div>
+  </div>
+</div>
+
+<div class="research-experience">
+  <h2 class="section-title">Research & Development</h2>
+  
+  <div class="research-item featured">
+    <h3>Autonomous Systems Research Engineer</h3>
+    <p class="organization">TUfast Racing Team, TUM</p>
+    <p class="duration">October 2024 - Present</p>
+    <div class="achievements">
+      <ul>
+        <li>Leading autonomous vehicle development with enhanced control systems and safety protocols</li>
+        <li>Developed and integrated advanced PID and Pure Pursuit controllers, achieving 60% latency reduction</li>
+        <li>Refactored autonomous driving codebase for improved modularity and maintainability</li>
+        <li>Implemented CARLA simulator integration for comprehensive testing scenarios</li>
+        <li>Collaborated on SLAM-based localization and sensor fusion systems</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="research-item">
+    <h3>Bachelor Thesis Research</h3>
+    <p class="organization">Technical University of Munich</p>
+    <p class="duration">May 2024 - October 2024</p>
+    <p class="thesis-title">"Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Controller"</p>
+    <div class="achievements">
+      <ul>
+        <li>Conducted empirical evaluation of metaheuristic search algorithms for DRL robustness testing</li>
+        <li>Achieved over 500% improvement in testing efficiency compared to traditional random testing</li>
+        <li>Developed OpenSBT framework for structured evaluation and reproducibility</li>
+        <li>Collaborated with University of Southern California research group for system integration</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="professional-experience">
+  <h2 class="section-title">Professional Experience</h2>
+  
+  <div class="experience-item upcoming">
+    <h3>Digital Supply Chain Intern</h3>
+    <p class="organization">AUDI AG</p>
+    <p class="duration">September 2025 - February 2026</p>
+    <div class="responsibilities">
+      <ul>
+        <li>Digitalization of international supply chain processes across global production sites</li>
+        <li>Development of Low Code applications for process automation and optimization</li>
+        <li>Design and implementation of ETL processes and comprehensive data visualization dashboards</li>
+        <li>Economic efficiency analysis and ROI assessment for digital transformation initiatives</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="experience-item">
+    <h3>Co-Founder & Technical Lead</h3>
+    <p class="organization">LingTu.de Edutech</p>
+    <p class="duration">October 2022 - February 2024</p>
+    <div class="responsibilities">
+      <ul>
+        <li>Developed AI-powered personalized learning platform for language and mathematics education</li>
+        <li>Led product development from concept to market-ready solution</li>
+        <li>Achieved over €10,000 in annual revenue serving 70+ learners</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="technical-expertise">
+  <h2 class="section-title">Technical Expertise</h2>
+  
+  <div class="skills-grid">
+    <div class="skill-category">
+      <h3>Programming & Development</h3>
+      <div class="skill-tags">
+        <span class="skill-tag">Python</span>
+        <span class="skill-tag">Java</span>
+        <span class="skill-tag">C/C++</span>
+        <span class="skill-tag">JavaScript</span>
+        <span class="skill-tag">React</span>
+        <span class="skill-tag">SQL</span>
+      </div>
+    </div>
+    
+    <div class="skill-category">
+      <h3>AI & Machine Learning</h3>
+      <div class="skill-tags">
+        <span class="skill-tag">Deep Reinforcement Learning</span>
+        <span class="skill-tag">Neural Networks</span>
+        <span class="skill-tag">Computer Vision</span>
+        <span class="skill-tag">Search-Based Testing</span>
+        <span class="skill-tag">Genetic Algorithms</span>
+      </div>
+    </div>
+    
+    <div class="skill-category">
+      <h3>Systems & Tools</h3>
+      <div class="skill-tags">
+        <span class="skill-tag">ROS</span>
+        <span class="skill-tag">CARLA Simulator</span>
+        <span class="skill-tag">Power BI</span>
+        <span class="skill-tag">Tableau</span>
+        <span class="skill-tag">SAP</span>
+        <span class="skill-tag">CISCO</span>
+      </div>
+    </div>
+    
+    <div class="skill-category">
+      <h3>Marketing & Business</h3>
+      <div class="skill-tags">
+        <span class="skill-tag">Social Media Marketing</span>
+        <span class="skill-tag">Digital Marketing</span>
+        <span class="skill-tag">UX Design</span>
+        <span class="skill-tag">Business Analytics</span>
+        <span class="skill-tag">Entrepreneurship</span>
       </div>
     </div>
   </div>
 </div>
 
-<div class="tech-revolution-section">
-  <h3>🤖 Living in a Tech Revolution</h3>
-  <p>
-    While I was busy decoding algorithms and solving complex problems, <strong>ChatGPT</strong> popped onto the scene, and I realized I was living through a genuine tech revolution. I'm fortunate to have developed a unique blend of:
-  </p>
-  
-  <div class="skills-grid">
-    <div class="skill-item">
-      <i class="fas fa-globe-americas"></i>
-      <h4>International Perspective</h4>
-      <p>Cross-cultural experiences spanning China and Germany</p>
+<div class="certifications">
+  <h2 class="section-title">Certifications & Recognition</h2>
+  <div class="cert-grid">
+    <div class="cert-item">
+      <h4>SAP Professional Certificate</h4>
+      <p>November 2024</p>
     </div>
-    <div class="skill-item">
-      <i class="fas fa-bolt"></i>
-      <h4>Youthful Energy</h4>
-      <p>Fresh approaches to problem-solving and innovation</p>
+    <div class="cert-item">
+      <h4>Introduction to Social Media Marketing</h4>
+      <p>Meta, November 2023</p>
     </div>
-    <div class="skill-item">
-      <i class="fas fa-brain"></i>
-      <h4>Rapid Learning</h4>
-      <p>Faster than a hot pot boils (seriously, it's like a superpower!)</p>
+    <div class="cert-item">
+      <h4>Neural Networks and Deep Learning</h4>
+      <p>Coursera, November 2023</p>
     </div>
-    <div class="skill-item">
-      <i class="fas fa-laptop-code"></i>
-      <h4>Technical Expertise</h4>
-      <p>Computer Science and Machine Learning mastery</p>
+    <div class="cert-item">
+      <h4>UX Design Certificate</h4>
+      <p>Google, November 2023</p>
     </div>
   </div>
-</div>
-
-<div class="current-status">
-  <h3>📈 What's Next?</h3>
-  <p>
-    Now that I've got my diploma in hand, I know this is just the <strong>opening chapter</strong> of my adventure. Currently working as a <strong>Research Assistant at Huawei</strong> and serving as an <strong>Honored Teaching Assistant at TUM</strong>, I'm excited to see what the next plot twist has in store!
-  </p>
 </div>
 
 <div class="research-interests">
-  <h3>🔬 Research Interests</h3>
+  <h2 class="section-title">Research Interests</h2>
   <div class="interests-grid">
-    <div class="interest-tag">
+    <div class="interest-item">
       <i class="fas fa-robot"></i>
-      Machine Learning & Deep Learning
+      <h4>Autonomous Systems</h4>
+      <p>Deep reinforcement learning for decentralized control systems and robotic applications</p>
     </div>
-    <div class="interest-tag">
-      <i class="fas fa-car"></i>
-      Autonomous Systems & Robotics
-    </div>
-    <div class="interest-tag">
+    <div class="interest-item">
       <i class="fas fa-search"></i>
-      Search-Based Testing & Optimization
+      <h4>Search-Based Testing</h4>
+      <p>Metaheuristic algorithms for software testing and system robustness evaluation</p>
     </div>
-    <div class="interest-tag">
-      <i class="fas fa-network-wired"></i>
-      Network Systems & Protocols
+    <div class="interest-item">
+      <i class="fas fa-brain"></i>
+      <h4>AI Safety & Ethics</h4>
+      <p>Bias mitigation in AI systems and responsible machine learning practices</p>
+    </div>
+    <div class="interest-item">
+      <i class="fas fa-industry"></i>
+      <h4>Digital Transformation</h4>
+      <p>Enterprise system optimization and supply chain digitalization</p>
     </div>
   </div>
 </div>
 
-<div class="connect-section">
-  <h3>🤝 Let's Connect!</h3>
+<div class="contact-section">
+  <h2 class="section-title">Professional Contact</h2>
   <p>
-    I'm always excited to discuss technology, research opportunities, or just chat about life as an international student in tech. Feel free to reach out!
+    I welcome opportunities for research collaboration, academic discussions, and professional networking. 
+    Please feel free to reach out for inquiries regarding my work, potential partnerships, or academic exchange.
   </p>
   
-  <div class="contact-grid">
-    <a href="mailto:tianhao.gu@tum.de" class="contact-item">
+  <div class="contact-methods">
+    <a href="mailto:tianhao.gu@tum.de" class="contact-link">
       <i class="fas fa-envelope"></i>
-      <span>Email</span>
+      tianhao.gu@tum.de
     </a>
-    <a href="https://www.linkedin.com/in/tianhao-gu-tum/" class="contact-item">
+    <a href="https://www.linkedin.com/in/tianhao-gu-tum/" class="contact-link">
       <i class="fab fa-linkedin"></i>
-      <span>LinkedIn</span>
+      LinkedIn Profile
     </a>
-    <a href="https://github.com/tianhaogutum" class="contact-item">
+    <a href="https://github.com/tianhaogutum" class="contact-link">
       <i class="fab fa-github"></i>
-      <span>GitHub</span>
+      GitHub Repository
     </a>
-    <a href="assets/pdf/cv_tianhao.pdf" class="contact-item">
+    <a href="assets/pdf/cv_tianhao.pdf" class="contact-link">
       <i class="fas fa-file-pdf"></i>
-      <span>CV/Resume</span>
+      Download CV
     </a>
   </div>
 </div>
 
 <style>
+/* Professional About Page Styles */
 .about-hero {
-  background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
-  border-radius: 20px;
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.08) 0%, rgba(118, 75, 162, 0.08) 100%);
+  border-radius: 15px;
   padding: 60px 40px;
-  margin-bottom: 40px;
+  margin-bottom: 50px;
   text-align: center;
+  border: 1px solid rgba(102, 126, 234, 0.1);
 }
 
 .hero-title {
-  font-size: 3rem;
-  font-weight: 700;
-  background: var(--brand-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  margin-bottom: 20px;
+  font-size: 3.5rem;
+  font-weight: 300;
+  color: var(--global-text-color);
+  margin-bottom: 15px;
+  letter-spacing: -0.02em;
 }
 
 .hero-subtitle {
-  font-size: 1.25rem;
-  color: var(--global-text-color-light);
+  font-size: 1.3rem;
+  color: var(--brand-accent);
   font-weight: 500;
+  margin-bottom: 8px;
 }
 
-.intro-section {
-  margin: 40px 0;
+.hero-institution {
+  font-size: 1.1rem;
+  color: var(--global-text-color-light);
+  font-weight: 400;
 }
 
-.journey-highlight {
+.section-title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: var(--brand-accent);
+  margin-bottom: 25px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--brand-accent);
+}
+
+.professional-summary {
+  margin: 50px 0;
   background: rgba(255, 255, 255, 0.5);
+  padding: 40px;
   border-radius: 15px;
-  padding: 30px;
-  margin: 30px 0;
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-html[data-theme="dark"] .journey-highlight {
+html[data-theme="dark"] .professional-summary {
   background: rgba(31, 41, 55, 0.5);
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.tech-revolution-section {
-  margin: 50px 0;
+.professional-summary .lead {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+.education-grid {
+  display: grid;
+  gap: 30px;
+  margin: 30px 0;
+}
+
+.education-item {
+  background: rgba(255, 255, 255, 0.7);
+  padding: 30px;
+  border-radius: 12px;
+  border-left: 4px solid var(--brand-accent);
+  transition: all 0.3s ease;
+}
+
+.education-item:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+}
+
+html[data-theme="dark"] .education-item {
+  background: rgba(31, 41, 55, 0.7);
+}
+
+.education-item h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--brand-accent);
+  margin-bottom: 8px;
+}
+
+.education-item .institution {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--global-text-color);
+  margin-bottom: 5px;
+}
+
+.education-item .duration {
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.education-item .description {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--global-text-color);
+}
+
+.research-item, .experience-item {
+  background: rgba(255, 255, 255, 0.6);
+  padding: 35px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.research-item:hover, .experience-item:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.research-item.featured {
+  border-left: 5px solid var(--brand-accent);
+}
+
+.experience-item.upcoming {
+  border-left: 5px solid #28a745;
+}
+
+html[data-theme="dark"] .research-item,
+html[data-theme="dark"] .experience-item {
+  background: rgba(31, 41, 55, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.research-item h3, .experience-item h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--brand-accent);
+  margin-bottom: 8px;
+}
+
+.organization {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--global-text-color);
+  margin-bottom: 5px;
+}
+
+.duration {
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
+  font-style: italic;
+  margin-bottom: 15px;
+}
+
+.thesis-title {
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--global-text-color-light);
+  margin-bottom: 15px;
+}
+
+.achievements ul, .responsibilities ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.achievements li, .responsibilities li {
+  margin-bottom: 8px;
+  line-height: 1.5;
 }
 
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 25px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
   margin: 30px 0;
 }
 
-.skill-item {
-  background: rgba(255, 255, 255, 0.8);
-  border-radius: 15px;
+.skill-category {
+  background: rgba(255, 255, 255, 0.6);
   padding: 25px;
-  text-align: center;
-  transition: all 0.3s ease;
+  border-radius: 12px;
   border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-.skill-item:hover {
-  transform: translateY(-5px);
-  box-shadow: var(--shadow-hover);
-}
-
-html[data-theme="dark"] .skill-item {
-  background: rgba(31, 41, 55, 0.8);
+html[data-theme="dark"] .skill-category {
+  background: rgba(31, 41, 55, 0.6);
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.skill-item i {
-  font-size: 2.5rem;
+.skill-category h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
   color: var(--brand-accent);
   margin-bottom: 15px;
 }
 
-.skill-item h4 {
-  font-size: 1.2rem;
-  font-weight: 600;
-  margin-bottom: 10px;
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
-.skill-item p {
+.skill-tag {
+  background: var(--brand-accent);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+
+.cert-item {
+  background: rgba(255, 255, 255, 0.6);
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+html[data-theme="dark"] .cert-item {
+  background: rgba(31, 41, 55, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.cert-item h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--brand-accent);
+  margin-bottom: 8px;
+}
+
+.cert-item p {
   color: var(--global-text-color-light);
   margin: 0;
-}
-
-.current-status {
-  background: linear-gradient(135deg, rgba(240, 147, 251, 0.1) 0%, rgba(245, 87, 108, 0.1) 100%);
-  border-radius: 15px;
-  padding: 30px;
-  margin: 40px 0;
-}
-
-.research-interests {
-  margin: 50px 0;
 }
 
 .interests-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 15px;
+  gap: 25px;
   margin: 30px 0;
 }
 
-.interest-tag {
-  background: var(--brand-accent);
-  color: white;
-  padding: 15px 20px;
-  border-radius: 25px;
-  display: flex;
-  align-items: center;
-  font-weight: 500;
+.interest-item {
+  background: rgba(255, 255, 255, 0.6);
+  padding: 25px;
+  border-radius: 12px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease;
 }
 
-.interest-tag:hover {
-  transform: translateY(-2px);
+.interest-item:hover {
+  transform: translateY(-3px);
   box-shadow: var(--shadow-hover);
 }
 
-.interest-tag i {
-  margin-right: 10px;
-  font-size: 1.2rem;
+html[data-theme="dark"] .interest-item {
+  background: rgba(31, 41, 55, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.connect-section {
+.interest-item i {
+  font-size: 2.5rem;
+  color: var(--brand-accent);
+  margin-bottom: 15px;
+}
+
+.interest-item h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--brand-accent);
+  margin-bottom: 10px;
+}
+
+.interest-item p {
+  color: var(--global-text-color-light);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.contact-section {
   background: rgba(255, 255, 255, 0.5);
-  border-radius: 20px;
   padding: 40px;
+  border-radius: 15px;
   margin: 50px 0;
+  text-align: center;
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
-  text-align: center;
 }
 
-html[data-theme="dark"] .connect-section {
+html[data-theme="dark"] .contact-section {
   background: rgba(31, 41, 55, 0.5);
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.contact-grid {
+.contact-methods {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
   margin: 30px 0;
 }
 
-.contact-item {
+.contact-link {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  padding: 20px;
+  justify-content: center;
+  padding: 15px 20px;
   background: rgba(255, 255, 255, 0.8);
-  border-radius: 15px;
+  border-radius: 10px;
   text-decoration: none;
   color: var(--global-text-color);
+  font-weight: 500;
   transition: all 0.3s ease;
   border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
-.contact-item:hover {
-  transform: translateY(-3px) scale(1.05);
+.contact-link:hover {
+  transform: translateY(-2px);
   box-shadow: var(--shadow-hover);
   color: var(--brand-accent);
   text-decoration: none;
 }
 
-html[data-theme="dark"] .contact-item {
+html[data-theme="dark"] .contact-link {
   background: rgba(31, 41, 55, 0.8);
   border: 1px solid rgba(255, 255, 255, 0.1);
   color: var(--global-text-color);
 }
 
-.contact-item i {
-  font-size: 2rem;
-  margin-bottom: 10px;
+.contact-link i {
+  margin-right: 10px;
+  font-size: 1.2rem;
 }
 
-.contact-item span {
-  font-weight: 500;
+/* CSS Variables */
+:root {
+  --brand-primary: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --brand-accent: #667eea;
+  --shadow-hover: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+html[data-theme="dark"] {
+  --brand-accent: #8b9cf4;
+  --shadow-hover: 0 10px 25px rgba(0, 0, 0, 0.3);
 }
 
 @media (max-width: 768px) {
@@ -323,11 +627,15 @@ html[data-theme="dark"] .contact-item {
   }
   
   .hero-title {
-    font-size: 2.5rem;
+    font-size: 2.8rem;
   }
   
-  .hero-subtitle {
-    font-size: 1.1rem;
+  .professional-summary {
+    padding: 30px 20px;
+  }
+  
+  .research-item, .experience-item {
+    padding: 25px 20px;
   }
   
   .skills-grid,
@@ -335,13 +643,12 @@ html[data-theme="dark"] .contact-item {
     grid-template-columns: 1fr;
   }
   
-  .journey-highlight,
-  .connect-section {
-    padding: 25px;
+  .contact-methods {
+    grid-template-columns: 1fr;
   }
   
-  .contact-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .cert-grid {
+    grid-template-columns: 1fr;
   }
 }
 </style>

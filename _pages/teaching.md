@@ -195,8 +195,8 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
       <div class="course-info">
         <h3 class="course-title">Introduction to Programming</h3>
         <div class="course-semesters">
-          <span class="course-semester">23S</span>
-          <span class="course-semester">22S</span>
+          <span class="course-semester">23SS</span>
+          <span class="course-semester">22SS</span>
         </div>
       </div>
       <div class="course-icon">
