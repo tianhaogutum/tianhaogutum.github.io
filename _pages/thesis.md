@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /thesis/
-title: thesis
+permalink: /research/
+title: research
+description: A collection of my research work and academic contributions.
 nav: true
-nav_order: 3
-description: >
-  My Bachelor's thesis exploring cutting-edge research in computer science and machine learning. 
-  A comprehensive academic work demonstrating theoretical knowledge and practical application.
+nav_order: 4
 ---
 
 <!-- Thesis Hero Section -->

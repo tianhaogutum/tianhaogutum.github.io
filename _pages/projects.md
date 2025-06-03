@@ -2,9 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A showcase of my technical projects, research work, and innovations in Computer Science and Machine Learning.
+description: A showcase of my key projects and technical achievements.
 nav: true
-nav_order: 2
+nav_order: 3
+display_categories: [work, fun]
+horizontal: false
 ---
 
 <div class="projects-intro">
@@ -26,7 +28,7 @@ nav_order: 2
   <div class="row">
     <div class="col-md-3 text-center">
       <div class="stat-card">
-        <h3 class="stat-number">6+</h3>
+        <h3 class="stat-number">5+</h3>
         <p class="stat-label">Projects Completed</p>
       </div>
     </div>
@@ -54,46 +56,6 @@ nav_order: 2
 <!-- Main Projects -->
 <div class="projects-grid">
   
-  <!-- Bachelor Thesis -->
-  <div class="project-card featured">
-    <div class="project-header">
-      <div class="project-image">
-        <img src="{{ 'assets/img/drone2.png' | relative_url }}" alt="Drone Swarm Testing" class="img-fluid">
-      </div>
-      <div class="project-meta">
-        <span class="project-date">May 2024 - Oct 2024</span>
-        <span class="project-category">Bachelor Thesis</span>
-      </div>
-    </div>
-    <div class="project-content">
-      <h3 class="project-title">Effectiveness of Search-Based Testing on a Deep Reinforcement-Learned Controller</h3>
-      <p class="project-description">
-        My bachelor thesis explores the application of decentralized control systems for drone swarms using deep reinforcement learning (DRL). 
-        This research combines search-based testing with scenario-based testing to identify edge cases in autonomous drone controllers.
-      </p>
-      <div class="project-highlights">
-        <h5>Key Achievements:</h5>
-        <ul>
-          <li>Implemented decentralized DRL controllers for drone swarms using OpenAI's PPO algorithm</li>
-          <li>Developed metaheuristic search techniques for scenario-based testing</li>
-          <li>Achieved over 500% improvement in efficiency compared to traditional random testing</li>
-          <li>Created the OpenSBT framework for structured evaluation and reproducibility</li>
-        </ul>
-      </div>
-      <div class="project-tech">
-        <span class="tech-tag">Deep Reinforcement Learning</span>
-        <span class="tech-tag">Python</span>
-        <span class="tech-tag">Genetic Algorithms</span>
-        <span class="tech-tag">Drone Control</span>
-      </div>
-      <div class="project-links">
-        <a href="https://github.com/tianhaogutum/bachelorthesis" target="_blank" class="btn btn-primary">
-          <i class="fab fa-github"></i> View Code
-        </a>
-      </div>
-    </div>
-  </div>
-
   <!-- Network Laboratory Internship -->
   <div class="project-card">
     <div class="project-header">

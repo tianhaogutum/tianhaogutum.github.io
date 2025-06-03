@@ -2,6 +2,75 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+title: Tianhao Gu
+description: Personal website of Tianhao Gu
+url: "https://tianhaogutum.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  blogs:
+    output: true
+    permalink: /blogs/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "blogs"
+    values:
+      layout: "post"
+
+# Language settings
+active_lang: en
+default_lang: en
+languages:
+  - en
+  - de
+  - zh-Hans
+  - zh-Hant
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - .git
+  - .github
+  - .vscode
+  - .idea
+  - .DS_Store
+  - README.md
+  - LICENSE
+  - _config.yml
+  - _data/languages.yml
+  - _includes/language-switcher.html
+
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
 title: Tianhao Gu's Hub # the website title (will display your name and purpose)
 first_name: Tianhao
 middle_name: 

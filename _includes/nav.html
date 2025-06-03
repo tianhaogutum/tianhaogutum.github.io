@@ -1,0 +1,120 @@
+{% assign languages = site.data.languages %}
+{% assign current_lang = site.active_lang | default: 'en' %}
+{% assign lang = languages[current_lang] %}
+
+<nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
+  <div class="container-fluid">
+    {%- if page.nav-short -%}
+    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+    {%- else -%}
+    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+    {%- endif -%}
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto">
+        {%- for link in site.data.navigation.main -%}
+          {%- if link.section -%}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                {{ lang.navigation[link.section] }}
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                {%- for sublink in link.sublinks -%}
+                  <li><a class="dropdown-item" href="{{ sublink.url | relative_url }}">{{ sublink.title }}</a></li>
+                {%- endfor -%}
+              </ul>
+            </li>
+          {%- else -%}
+            <li class="nav-item">
+              <a class="nav-link {% if link.url == page.url %}active{% endif %}" href="{{ link.url | relative_url }}">{{ lang.navigation[link.title] }}</a>
+            </li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+      
+      <!-- Language Switcher -->
+      <div class="nav-item">
+        {% include language-switcher.html %}
+      </div>
+    </div>
+  </div>
+</nav>
+
+<style>
+.navbar-custom {
+  background-color: var(--global-bg-color);
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  padding: 0.5rem 1rem;
+}
+
+.navbar-custom .navbar-brand {
+  font-weight: 700;
+  color: var(--global-theme-color);
+  font-size: 1.5rem;
+}
+
+.navbar-custom .nav-link {
+  color: var(--global-text-color);
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.navbar-custom .nav-link:hover {
+  color: var(--global-theme-color);
+  transform: translateY(-2px);
+}
+
+.navbar-custom .nav-link.active {
+  color: var(--global-theme-color);
+  font-weight: 600;
+}
+
+.navbar-custom .dropdown-menu {
+  background-color: var(--global-bg-color);
+  border: 1px solid var(--global-border-color);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0;
+}
+
+.navbar-custom .dropdown-item {
+  color: var(--global-text-color);
+  padding: 0.5rem 1rem;
+  transition: all 0.2s ease;
+}
+
+.navbar-custom .dropdown-item:hover {
+  background-color: var(--global-hover-color);
+  color: var(--global-theme-color);
+  transform: translateX(5px);
+}
+
+@media (max-width: 768px) {
+  .navbar-custom {
+    padding: 0.25rem 0.5rem;
+  }
+  
+  .navbar-custom .navbar-brand {
+    font-size: 1.25rem;
+  }
+  
+  .navbar-custom .nav-link {
+    padding: 0.25rem 0.5rem;
+  }
+  
+  .navbar-custom .dropdown-menu {
+    border: none;
+    box-shadow: none;
+    padding: 0;
+  }
+  
+  .navbar-custom .dropdown-item {
+    padding: 0.25rem 0.5rem;
+  }
+}
+</style> 

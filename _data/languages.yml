@@ -1,0 +1,167 @@
+en:
+  name: English
+  code: en
+  flag: 🇺🇸
+  navigation:
+    about: About
+    research: Research
+    projects: Projects
+    blogs: Blogs
+  about:
+    title: About Me
+    subtitle: Get to know me better
+    education:
+      title: Education
+      tum:
+        degree: Master of Science in Informatics
+        period: 2023 - Present
+        details: Technical University of Munich
+      fudan:
+        degree: Bachelor of Science in Computer Science
+        period: 2019 - 2023
+        details: Fudan University
+    experience:
+      title: Professional Experience
+      ilabx:
+        role: Network Laboratory Intern
+        period: Feb 2024 - Mar 2024
+        details: Developed code for OSI model's network layer using CISCO equipment
+      gamma:
+        role: Computer Architecture Intern
+        period: Dec 2023 - Mar 2024
+        details: Reimplemented gamma correction and grayscale conversion algorithms
+    skills:
+      title: Technical Skills
+      programming: Programming Languages
+      frameworks: Frameworks & Tools
+      languages: Languages
+      languages_list: English (Fluent), German (Intermediate), Chinese (Native)
+    interests:
+      title: Research Interests
+      interests_list: Machine Learning, Computer Vision, Natural Language Processing
+
+de:
+  name: Deutsch
+  code: de
+  flag: 🇩🇪
+  navigation:
+    about: Über Mich
+    research: Forschung
+    projects: Projekte
+    blogs: Blog
+  about:
+    title: Über Mich
+    subtitle: Lernen Sie mich besser kennen
+    education:
+      title: Ausbildung
+      tum:
+        degree: Master of Science in Informatik
+        period: 2023 - Gegenwart
+        details: Technische Universität München
+      fudan:
+        degree: Bachelor of Science in Informatik
+        period: 2019 - 2023
+        details: Fudan Universität
+    experience:
+      title: Berufserfahrung
+      ilabx:
+        role: Praktikum im Netzwerklabor
+        period: Feb 2024 - März 2024
+        details: Entwicklung von Code für die Netzwerkschicht des OSI-Modells mit CISCO-Geräten
+      gamma:
+        role: Praktikum in Computerarchitektur
+        period: Dez 2023 - März 2024
+        details: Neuimplementierung von Gammakorrektur- und Graustufenkonvertierungsalgorithmen
+    skills:
+      title: Technische Fähigkeiten
+      programming: Programmiersprachen
+      frameworks: Frameworks & Tools
+      languages: Sprachen
+      languages_list: Englisch (Fließend), Deutsch (Mittelstufe), Chinesisch (Muttersprache)
+    interests:
+      title: Forschungsinteressen
+      interests_list: Maschinelles Lernen, Computervision, Verarbeitung natürlicher Sprache
+
+zh-Hans:
+  name: 简体中文
+  code: zh-Hans
+  flag: 🇨🇳
+  navigation:
+    about: 关于我
+    research: 研究
+    projects: 项目
+    blogs: 博客
+  about:
+    title: 关于我
+    subtitle: 了解更多关于我的信息
+    education:
+      title: 教育背景
+      tum:
+        degree: 信息学理学硕士
+        period: 2023 - 至今
+        details: 慕尼黑工业大学
+      fudan:
+        degree: 计算机科学理学学士
+        period: 2019 - 2023
+        details: 复旦大学
+    experience:
+      title: 专业经验
+      ilabx:
+        role: 网络实验室实习生
+        period: 2024年2月 - 2024年3月
+        details: 使用思科设备开发OSI模型网络层代码
+      gamma:
+        role: 计算机架构实习生
+        period: 2023年12月 - 2024年3月
+        details: 重新实现伽马校正和灰度转换算法
+    skills:
+      title: 技术技能
+      programming: 编程语言
+      frameworks: 框架与工具
+      languages: 语言能力
+      languages_list: 英语（流利）, 德语（中级）, 中文（母语）
+    interests:
+      title: 研究兴趣
+      interests_list: 机器学习, 计算机视觉, 自然语言处理
+
+zh-Hant:
+  name: 繁體中文
+  code: zh-Hant
+  flag: 🇭🇰
+  navigation:
+    about: 關於我
+    research: 研究
+    projects: 項目
+    blogs: 博客
+  about:
+    title: 關於我
+    subtitle: 了解更多關於我的信息
+    education:
+      title: 教育背景
+      tum:
+        degree: 信息學理學碩士
+        period: 2023 - 至今
+        details: 慕尼黑工業大學
+      fudan:
+        degree: 計算機科學理學學士
+        period: 2019 - 2023
+        details: 復旦大學
+    experience:
+      title: 專業經驗
+      ilabx:
+        role: 網絡實驗室實習生
+        period: 2024年2月 - 2024年3月
+        details: 使用思科設備開發OSI模型網絡層代碼
+      gamma:
+        role: 計算機架構實習生
+        period: 2023年12月 - 2024年3月
+        details: 重新實現伽馬校正和灰度轉換算法
+    skills:
+      title: 技術技能
+      programming: 編程語言
+      frameworks: 框架與工具
+      languages: 語言能力
+      languages_list: 英語（流利）, 德語（中級）, 中文（母語）
+    interests:
+      title: 研究興趣
+      interests_list: 機器學習, 計算機視覺, 自然語言處理 

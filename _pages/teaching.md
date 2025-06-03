@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
+description: Materials for courses I have taught or assisted with.
 nav: true
-nav_order: 5
-description: My teaching experience as an Honored Teaching Assistant at Technical University of Munich, empowering the next generation of computer scientists.
+nav_order: 6
 ---
 
 <!-- Teaching Hero Section -->

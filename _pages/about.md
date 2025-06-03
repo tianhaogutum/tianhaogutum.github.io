@@ -15,13 +15,13 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 <div class="about-hero">
   <div class="hero-content">
     <h1 class="hero-title">Tianhao Gu</h1>
-    <p class="hero-subtitle">Software Developer, AI Engineer, Data Analyst</p>
+    <p class="hero-subtitle">Data Analyst @Audi AG</p>
     <p class="hero-institution">Technical University of Munich (TUM)</p>
   </div>
 </div>
@@ -120,7 +120,7 @@ social: true # includes social icons at the bottom of the page
   </div>
   
   <div class="experience-item">
-    <h3>Co-Founder & Technical Lead</h3>
+    <h3>Co-Founder</h3>
     <p class="organization">LingTu.de Edutech</p>
     <p class="duration">October 2022 - February 2024</p>
     <div class="responsibilities">
@@ -129,106 +129,6 @@ social: true # includes social icons at the bottom of the page
         <li>Led product development from concept to market-ready solution</li>
         <li>Achieved over €10,000 in annual revenue serving 70+ learners</li>
       </ul>
-    </div>
-  </div>
-</div>
-
-<div class="technical-expertise">
-  <h2 class="section-title">Technical Expertise</h2>
-  
-  <div class="skills-grid">
-    <div class="skill-category">
-      <h3>Programming & Development</h3>
-      <div class="skill-tags">
-        <span class="skill-tag">Python</span>
-        <span class="skill-tag">Java</span>
-        <span class="skill-tag">C/C++</span>
-        <span class="skill-tag">JavaScript</span>
-        <span class="skill-tag">React</span>
-        <span class="skill-tag">SQL</span>
-      </div>
-    </div>
-    
-    <div class="skill-category">
-      <h3>AI & Machine Learning</h3>
-      <div class="skill-tags">
-        <span class="skill-tag">Deep Reinforcement Learning</span>
-        <span class="skill-tag">Neural Networks</span>
-        <span class="skill-tag">Computer Vision</span>
-        <span class="skill-tag">Search-Based Testing</span>
-        <span class="skill-tag">Genetic Algorithms</span>
-      </div>
-    </div>
-    
-    <div class="skill-category">
-      <h3>Systems & Tools</h3>
-      <div class="skill-tags">
-        <span class="skill-tag">ROS</span>
-        <span class="skill-tag">CARLA Simulator</span>
-        <span class="skill-tag">Power BI</span>
-        <span class="skill-tag">Tableau</span>
-        <span class="skill-tag">SAP</span>
-        <span class="skill-tag">CISCO</span>
-      </div>
-    </div>
-    
-    <div class="skill-category">
-      <h3>Marketing & Business</h3>
-      <div class="skill-tags">
-        <span class="skill-tag">Social Media Marketing</span>
-        <span class="skill-tag">Digital Marketing</span>
-        <span class="skill-tag">UX Design</span>
-        <span class="skill-tag">Business Analytics</span>
-        <span class="skill-tag">Entrepreneurship</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="certifications">
-  <h2 class="section-title">Certifications & Recognition</h2>
-  <div class="cert-grid">
-    <div class="cert-item">
-      <h4>SAP Professional Certificate</h4>
-      <p>November 2024</p>
-    </div>
-    <div class="cert-item">
-      <h4>Introduction to Social Media Marketing</h4>
-      <p>Meta, November 2023</p>
-    </div>
-    <div class="cert-item">
-      <h4>Neural Networks and Deep Learning</h4>
-      <p>Coursera, November 2023</p>
-    </div>
-    <div class="cert-item">
-      <h4>UX Design Certificate</h4>
-      <p>Google, November 2023</p>
-    </div>
-  </div>
-</div>
-
-<div class="research-interests">
-  <h2 class="section-title">Research Interests</h2>
-  <div class="interests-grid">
-    <div class="interest-item">
-      <i class="fas fa-robot"></i>
-      <h4>Autonomous Systems</h4>
-      <p>Deep reinforcement learning for decentralized control systems and robotic applications</p>
-    </div>
-    <div class="interest-item">
-      <i class="fas fa-search"></i>
-      <h4>Search-Based Testing</h4>
-      <p>Metaheuristic algorithms for software testing and system robustness evaluation</p>
-    </div>
-    <div class="interest-item">
-      <i class="fas fa-brain"></i>
-      <h4>AI Safety & Ethics</h4>
-      <p>Bias mitigation in AI systems and responsible machine learning practices</p>
-    </div>
-    <div class="interest-item">
-      <i class="fas fa-industry"></i>
-      <h4>Digital Transformation</h4>
-      <p>Enterprise system optimization and supply chain digitalization</p>
     </div>
   </div>
 </div>
