@@ -116,7 +116,7 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
       <div class="course-info">
         <h3 class="course-title">Linear Algebra</h3>
         <div class="course-semesters">
-          <span class="course-semester">24SS (Summer Semester 2024)</span>
+          <span class="course-semester">24SS</span>
         </div>
       </div>
       <div class="course-icon">
@@ -142,7 +142,7 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
       <div class="course-info">
         <h3 class="course-title">Discrete Probability</h3>
         <div class="course-semesters">
-          <span class="course-semester">24SS (Summer Semester 2024)</span>
+          <span class="course-semester">24SS</span>
         </div>
       </div>
       <div class="course-icon">
@@ -168,8 +168,8 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
       <div class="course-info">
         <h3 class="course-title">Discrete Structures</h3>
         <div class="course-semesters">
-          <span class="course-semester">24SS (Summer Semester 2024)</span>
-          <span class="course-semester">22-23WS (Winter Semester 2022-23)</span>
+          <span class="course-semester">23-24WS</span>
+          <span class="course-semester">22-23WS</span>
         </div>
       </div>
       <div class="course-icon">
@@ -195,8 +195,8 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
       <div class="course-info">
         <h3 class="course-title">Introduction to Programming</h3>
         <div class="course-semesters">
-          <span class="course-semester">23S (Summer Semester 2023)</span>
-          <span class="course-semester">22S (Summer Semester 2022)</span>
+          <span class="course-semester">23S</span>
+          <span class="course-semester">22S</span>
         </div>
       </div>
       <div class="course-icon">
