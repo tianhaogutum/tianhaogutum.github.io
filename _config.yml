@@ -8,15 +8,15 @@ middle_name:
 last_name: Gu
 email: tianhao.gu@tum.de # replace with your email
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A personal portfolio showcasing my journey in Computer Science and beyond. 
-  Based on the minimalist [*folio](https://github.com/bogoli/-folio) design.
+  A modern academic portfolio showcasing my journey in Computer Science, Machine Learning, and beyond. 
+  Passionate about innovation, research, and building the future of technology.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Images courtesy of <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: portfolio, Tianhao Gu, computer science, machine learning, data analysis, TUM # adjust keywords according to your background
+  Made with ❤️ by Tianhao Gu.
+keywords: portfolio, Tianhao Gu, computer science, machine learning, data analysis, TUM, research, AI # adjust keywords according to your background
 lang: en # language of the site (can be set to other codes like "cn" for Chinese)
-icon: 🖥️ # an emoji or image icon, change to one that suits you
+icon: 🚀 # an emoji or image icon, change to one that suits you
 
 url: https://tianhaogutum.github.io # your website URL
 baseurl: # leave blank for root
@@ -55,7 +55,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1000px # Slightly wider for better content display
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -64,8 +64,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -79,7 +79,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: tianhaogutum # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: 1010907 # Inspire HEP author ID
@@ -88,7 +88,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: tianhao-gu-tum # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
@@ -114,7 +114,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to reach out via email for research collaborations, academic discussions, or just to chat about technology and innovation! 🚀
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

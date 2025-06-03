@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-15 15:59:00-0400
+date: 2024-11-15 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-🎉 **Exciting Update!** Just completed my Bachelor's thesis on "Effectiveness of Search-Based Testing on Deep Reinforcement-Learned Controllers" - focusing on autonomous drone swarm testing and scenario-based optimization! 🚁🤖
+🎓 **Major Milestone!** Successfully completed my Master's degree in Computer Science at TUM! From a 12-year-old dreaming in German to a graduate ready to revolutionize AI - what a journey! 🚀 Next stop: shaping the future of technology! ✨
