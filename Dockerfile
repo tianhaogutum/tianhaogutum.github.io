@@ -25,7 +25,7 @@ ENV LANG=en_US.UTF-8 \
 
 RUN mkdir /srv/jekyll
 
-ADD Gemfile.lock /srv/jekyll
+# Copy only Gemfile first for better Docker layer caching
 ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll
@@ -33,8 +33,9 @@ WORKDIR /srv/jekyll
 # install jekyll and dependencies
 RUN gem install jekyll bundler
 
-RUN bundle install --no-cache
-# && rm -rf /var/lib/gems/3.1.0/cache
+# Install gems without Gemfile.lock
+RUN bundle install
+
 EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
