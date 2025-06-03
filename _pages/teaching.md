@@ -36,7 +36,15 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
       <div class="philosophy-content">
         <h2>🎯 Teaching Philosophy</h2>
         <p class="lead">
-          As an <strong>Honored Teaching Assistant</strong> at TUM, I believe in creating an inclusive, engaging learning environment where complex theoretical concepts become accessible and practical knowledge. My approach combines rigorous academic standards with innovative teaching methods to help students not just pass exams, but truly understand and apply computer science principles.
+          As an <strong>Honored Teaching Assistant</strong> at the Technical University of Munich, I strive to create an inclusive and engaging learning environment where complex theoretical concepts become accessible and are transformed into practical knowledge. My teaching approach combines rigorous academic standards with innovative methods to help students not only pass exams but truly <strong>understand and apply core principles</strong> of computer science.
+        </p>
+        
+        <p class="lead">
+          Throughout my teaching, I incorporate the core ideas from the book <em><strong>Peak: Secrets from the New Science of Expertise</strong></em>. I believe that effective learning is not the result of innate talent, but of <strong>deliberate, goal-oriented, and feedback-driven practice</strong>. Accordingly, I design my courses to break down concepts into manageable components, provide immediate feedback, and emphasize repeated practice—enabling students to build <strong>deep understanding</strong> and transferable skills over time.
+        </p>
+        
+        <p class="lead">
+          In recent years, with the rapid development of AI tools, I have also been actively exploring how to leverage <strong>multimodal AI systems</strong> to build <strong>AI Agent Teachers</strong> capable of facilitating various modern and effective learning models. I have begun designing distinct learning pipelines for different subjects—such as mathematics and language learning—tailored to the unique cognitive processes involved. Through this process, I have come to realize that the role of a teacher is being fundamentally redefined. In the future, teaching will be less about one-way knowledge transmission and more about enabling <strong>personalized, feedback-rich learning experiences</strong> through <strong>human–AI collaboration</strong>.
         </p>
       </div>
     </div>
@@ -94,22 +102,7 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
       <h4>Supplementary Materials</h4>
       <p>Developed additional resources and materials to aid student comprehension</p>
     </div>
-    
-    <div class="responsibility-card">
-      <div class="card-icon">
-        <i class="fas fa-sync-alt"></i>
-      </div>
-      <h4>Faculty Coordination</h4>
-      <p>Coordinated with faculty to align tutorial content with lecture objectives</p>
-    </div>
-    
-    <div class="responsibility-card">
-      <div class="card-icon">
-        <i class="fas fa-comments"></i>
-      </div>
-      <h4>Group Facilitation</h4>
-      <p>Facilitated group discussions to encourage collaborative learning among students</p>
-    </div>
+  
   </div>
 </div>
 
@@ -122,7 +115,9 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     <div class="course-header">
       <div class="course-info">
         <h3 class="course-title">Linear Algebra</h3>
-        <span class="course-semester">24SS (Summer Semester 2024)</span>
+        <div class="course-semesters">
+          <span class="course-semester">24SS (Summer Semester 2024)</span>
+        </div>
       </div>
       <div class="course-icon">
         <i class="fas fa-calculator"></i>
@@ -130,7 +125,7 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     </div>
     <div class="course-content">
       <p>
-        Covers <strong>vector spaces</strong>, <strong>matrix operations</strong>, <strong>linear transformations</strong>, systems of linear equations, eigenvalues and eigenvectors, and orthogonality. Emphasis was placed on practical applications such as solving real-world problems using linear systems and understanding the role of linear algebra in <strong>computer graphics</strong> and <strong>machine learning</strong>.
+        Covers vector spaces, matrix operations, linear transformations, systems of linear equations, eigenvalues and eigenvectors, and orthogonality. Emphasis was placed on practical applications such as solving real-world problems using linear systems and understanding the role of linear algebra in <strong>computer graphics</strong> and <strong>machine learning</strong>.
       </p>
       <div class="course-tags">
         <span class="tag">Vector Spaces</span>
@@ -146,7 +141,9 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     <div class="course-header">
       <div class="course-info">
         <h3 class="course-title">Discrete Probability</h3>
-        <span class="course-semester">24SS (Summer Semester 2024)</span>
+        <div class="course-semesters">
+          <span class="course-semester">24SS (Summer Semester 2024)</span>
+        </div>
       </div>
       <div class="course-icon">
         <i class="fas fa-dice"></i>
@@ -154,7 +151,7 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     </div>
     <div class="course-content">
       <p>
-        Covers fundamental concepts of <strong>probability</strong>, random variables, probability distributions, expectations, combinatorial analysis, and applications of probability in decision-making and risk assessment. The course also included topics like <strong>Markov chains</strong> and their applications in modeling stochastic processes.
+        Covers fundamental concepts of probability, random variables, probability distributions, expectations, combinatorial analysis, and applications of probability in decision-making and risk assessment. The course also included topics like <strong>Markov chains</strong> and their applications in modeling stochastic processes.
       </p>
       <div class="course-tags">
         <span class="tag">Probability Theory</span>
@@ -165,12 +162,15 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     </div>
   </div>
 
-  <!-- Discrete Structures 23-24 -->
+  <!-- Discrete Structures -->
   <div class="course-card">
     <div class="course-header">
       <div class="course-info">
         <h3 class="course-title">Discrete Structures</h3>
-        <span class="course-semester">23-24WS (Winter Semester 2023-24)</span>
+        <div class="course-semesters">
+          <span class="course-semester">24SS (Summer Semester 2024)</span>
+          <span class="course-semester">22-23WS (Winter Semester 2022-23)</span>
+        </div>
       </div>
       <div class="course-icon">
         <i class="fas fa-project-diagram"></i>
@@ -178,7 +178,7 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     </div>
     <div class="course-content">
       <p>
-        Covers fundamental concepts of <strong>sets, relations, and functions</strong>; basics of propositional and predicate logic; principles of combinatorics; essential concepts in <strong>graph theory</strong>; and foundational algebra and number theory principles. The course aimed to build a strong foundation for theoretical computer science and formal methods.
+        Covers fundamental concepts of sets, relations, and functions; basics of propositional and predicate logic; principles of combinatorics; essential concepts in <strong>graph theory</strong>; and foundational algebra and number theory principles. The course aimed to build a strong foundation for theoretical computer science and formal methods.
       </p>
       <div class="course-tags">
         <span class="tag">Logic</span>
@@ -189,12 +189,15 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     </div>
   </div>
 
-  <!-- Introduction to Programming 23S -->
+  <!-- Introduction to Programming -->
   <div class="course-card">
     <div class="course-header">
       <div class="course-info">
         <h3 class="course-title">Introduction to Programming</h3>
-        <span class="course-semester">23S (Summer Semester 2023)</span>
+        <div class="course-semesters">
+          <span class="course-semester">23S (Summer Semester 2023)</span>
+          <span class="course-semester">22S (Summer Semester 2022)</span>
+        </div>
       </div>
       <div class="course-icon">
         <i class="fab fa-java"></i>
@@ -202,7 +205,7 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     </div>
     <div class="course-content">
       <p>
-        Covers fundamental concepts of <strong>algorithms and programming</strong>, syntax and semantics of programming languages, basic and advanced data structures, recursion, object-oriented programming principles, and concurrent programming, all within a broader socio-economic context. The course utilized <strong>Java</strong> as the primary language and included hands-on projects to reinforce learning.
+        Covers fundamental concepts of algorithms and programming, syntax and semantics of programming languages, basic and advanced data structures, recursion, object-oriented programming principles, and concurrent programming, all within a broader socio-economic context. The course utilized <strong>Java</strong> as the primary language and included hands-on projects to reinforce learning.
       </p>
       <div class="course-tags">
         <span class="tag">Java Programming</span>
@@ -213,80 +216,29 @@ description: My teaching experience as an Honored Teaching Assistant at Technica
     </div>
   </div>
 
-  <!-- Previous Iterations -->
-  <div class="previous-courses">
-    <h3>🔄 Previous Course Iterations</h3>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="previous-course-item">
-          <h4>Discrete Structures</h4>
-          <span class="semester">22-23WS (Winter Semester 2022-23)</span>
-          <p>Same comprehensive coverage as 23-24WS iteration</p>
+  <!-- Additional Tutoring Work -->
+  <div class="course-card">
+    <div class="course-header">
+      <div class="course-info">
+        <h3 class="course-title">Additional Tutoring Work</h3>
+        <div class="course-semesters">
+          <span class="course-semester">2022-2024</span>
         </div>
       </div>
-      <div class="col-md-6">
-        <div class="previous-course-item">
-          <h4>Introduction to Programming</h4>
-          <span class="semester">22S (Summer Semester 2022)</span>
-          <p>Same Java-focused curriculum as 23S iteration</p>
-        </div>
+      <div class="course-icon">
+        <i class="fas fa-user-graduate"></i>
       </div>
     </div>
-  </div>
-</div>
-
-<!-- Special Achievements -->
-<div class="achievements-section">
-  <div class="row justify-content-center">
-    <div class="col-lg-10">
-      <h2 class="section-title">🏆 Special Achievements</h2>
-      <div class="achievement-highlight">
-        <div class="achievement-content">
-          <h3>Tutoring in High-Challenge Subjects</h3>
-          <p class="lead">
-            Beyond formal teaching duties, I have provided specialized tutoring in notoriously challenging subjects including:
-          </p>
-          <div class="challenging-subjects">
-            <div class="subject-item">
-              <i class="fas fa-brain"></i>
-              <span>Computer Theory</span>
-            </div>
-            <div class="subject-item">
-              <i class="fas fa-code"></i>
-              <span>Numerical Programming</span>
-            </div>
-            <div class="subject-item">
-              <i class="fas fa-square-root-alt"></i>
-              <span>Mathematical Analysis</span>
-            </div>
-          </div>
-          <div class="achievement-stats">
-            <div class="achievement-stat">
-              <span class="stat-number">80%</span>
-              <span class="stat-description">Historical failure rate of these subjects</span>
-            </div>
-            <div class="achievement-stat">
-              <span class="stat-number">180+</span>
-              <span class="stat-description">Total students instructed to date</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Contact for Teaching -->
-<div class="teaching-contact">
-  <div class="row justify-content-center">
-    <div class="col-lg-8 text-center">
-      <h3>Interested in Academic Collaboration?</h3>
-      <p class="lead">
-        I'm always open to discussing teaching methodologies, curriculum development, or academic mentorship opportunities.
+    <div class="course-content">
+      <p>
+        Beyond formal teaching duties, I have provided specialized tutoring in notoriously challenging subjects including <strong>Computer Theory</strong>, <strong>Numerical Programming</strong>, and <strong>Mathematical Analysis</strong>—subjects with historical failure rates of approximately 75%.
       </p>
-      <a href="mailto:tianhao.gu@tum.de" class="btn btn-primary btn-lg">
-        <i class="fas fa-envelope me-2"></i>Connect for Teaching Opportunities
-      </a>
+      <div class="course-tags">
+        <span class="tag">Computer Theory</span>
+        <span class="tag">Numerical Programming</span>
+        <span class="tag">Mathematical Analysis</span>
+        <span class="tag">High-Challenge Subjects</span>
+      </div>
     </div>
   </div>
 </div>
@@ -470,6 +422,16 @@ html[data-theme="dark"] .course-card {
   font-weight: 500;
 }
 
+.course-semesters {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.course-semesters .course-semester {
+  font-size: 0.8rem;
+}
+
 .course-icon {
   width: 50px;
   height: 50px;
@@ -498,93 +460,6 @@ html[data-theme="dark"] .course-card {
   font-size: 0.8rem;
   font-weight: 500;
   margin: 5px 5px 5px 0;
-}
-
-.previous-courses {
-  margin-top: 60px;
-  padding: 40px;
-  background: rgba(255, 255, 255, 0.3);
-  border-radius: 15px;
-  backdrop-filter: blur(10px);
-}
-
-html[data-theme="dark"] .previous-courses {
-  background: rgba(31, 41, 55, 0.3);
-}
-
-.previous-course-item {
-  padding: 20px;
-  background: rgba(255, 255, 255, 0.6);
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
-
-html[data-theme="dark"] .previous-course-item {
-  background: rgba(31, 41, 55, 0.6);
-}
-
-.previous-course-item h4 {
-  color: var(--brand-accent);
-  margin-bottom: 5px;
-}
-
-.semester {
-  font-size: 0.9rem;
-  color: var(--global-text-color-light);
-  font-weight: 500;
-}
-
-.achievements-section {
-  margin: 80px 0;
-}
-
-.achievement-highlight {
-  background: linear-gradient(135deg, rgba(240, 147, 251, 0.1) 0%, rgba(245, 87, 108, 0.1) 100%);
-  border-radius: 20px;
-  padding: 50px;
-}
-
-.challenging-subjects {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  margin: 30px 0;
-}
-
-.subject-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
-
-.subject-item i {
-  font-size: 2rem;
-  color: var(--brand-accent);
-  margin-bottom: 10px;
-}
-
-.achievement-stats {
-  display: flex;
-  justify-content: center;
-  gap: 80px;
-  margin-top: 40px;
-}
-
-.achievement-stat {
-  text-align: center;
-}
-
-.achievement-stat .stat-number {
-  font-size: 2.5rem;
-  font-weight: 700;
-  color: var(--brand-accent);
-  display: block;
-}
-
-.stat-description {
-  font-size: 0.9rem;
-  color: var(--global-text-color-light);
 }
 
 .teaching-contact {
@@ -619,18 +494,13 @@ html[data-theme="dark"] .previous-course-item {
     gap: 15px;
   }
   
-  .challenging-subjects {
-    flex-direction: column;
-    gap: 20px;
-  }
-  
-  .achievement-stats {
-    flex-direction: column;
-    gap: 30px;
+  .course-semesters {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
   }
   
   .philosophy-content,
-  .achievement-highlight,
   .teaching-contact {
     padding: 30px 20px;
   }
