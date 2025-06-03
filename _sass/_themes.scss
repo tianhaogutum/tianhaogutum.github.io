@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Themes
+ * Modern Themes with Enhanced Visual Design
  ******************************************************************************/
 
 @use "sass:color";
@@ -9,38 +9,46 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-theme-color: #{$accent-indigo};
+  --global-hover-color: #{$primary-blue};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0, 0, 0, 0.1);
+  --global-divider-color: rgba(0, 0, 0, 0.08);
   --global-card-bg-color: #{$white-color};
-  --global-highlight-color: #{$red-color-dark};
+  --global-highlight-color: #{$accent-teal};
   --global-back-to-top-bg-color: rgba(
-    #{color.channel($black-color, "red", $space: rgb)},
-    #{color.channel($black-color, "green", $space: rgb)},
-    #{color.channel($black-color, "blue", $space: rgb)},
-    0.4
+    #{color.channel($accent-indigo, "red", $space: rgb)},
+    #{color.channel($accent-indigo, "green", $space: rgb)},
+    #{color.channel($accent-indigo, "blue", $space: rgb)},
+    0.9
   );
   --global-back-to-top-text-color: #{$white-color};
   --global-newsletter-bg-color: #{$white-color};
   --global-newsletter-text-color: #{$black-color};
 
-  --global-tip-block: #42b983;
-  --global-tip-block-bg: #e2f5ec;
-  --global-tip-block-text: #215d42;
-  --global-tip-block-title: #359469;
-  --global-warning-block: #e7c000;
-  --global-warning-block-bg: #fff8d8;
-  --global-warning-block-text: #6b5900;
-  --global-warning-block-title: #b29400;
-  --global-danger-block: #c00;
-  --global-danger-block-bg: #ffe0e0;
-  --global-danger-block-text: #600;
-  --global-danger-block-title: #c00;
+  // Enhanced block styles
+  --global-tip-block: #{$accent-teal};
+  --global-tip-block-bg: #{color.adjust($accent-teal, $lightness: 45%)};
+  --global-tip-block-text: #{color.adjust($accent-teal, $lightness: -30%)};
+  --global-tip-block-title: #{color.adjust($accent-teal, $lightness: -10%)};
+  --global-warning-block: #{$yellow-color};
+  --global-warning-block-bg: #{color.adjust($yellow-color, $lightness: 40%)};
+  --global-warning-block-text: #{color.adjust($yellow-color, $lightness: -40%)};
+  --global-warning-block-title: #{color.adjust($yellow-color, $lightness: -20%)};
+  --global-danger-block: #{$red-color};
+  --global-danger-block-bg: #{color.adjust($red-color, $lightness: 40%)};
+  --global-danger-block-text: #{color.adjust($red-color, $lightness: -30%)};
+  --global-danger-block-title: #{$red-color};
+
+  // Enhanced shadows and transitions
+  --global-shadow-sm: #{$box-shadow-sm};
+  --global-shadow-md: #{$box-shadow-md};
+  --global-shadow-lg: #{$box-shadow-lg};
+  --global-transition: #{$transition-all};
+  --global-border-radius: #{$border-radius-md};
 
   #light-toggle-system {
     padding-left: 10px;
@@ -71,6 +79,15 @@
     height: $back-to-top-height;
     width: $back-to-top-width;
     z-index: $back-to-top-z-index;
+    border-radius: 50%;
+    box-shadow: var(--global-shadow-lg);
+    transition: var(--global-transition);
+    border: none;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    }
   }
 }
 
@@ -79,37 +96,38 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
-  --global-hover-text-color: #{$white-color};
+  --global-theme-color: #{$accent-cyan};
+  --global-hover-color: #{$accent-cyan};
+  --global-hover-text-color: #{$grey-color-dark};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #424246;
+  --global-divider-color: rgba(255, 255, 255, 0.1);
   --global-card-bg-color: #{$grey-900};
   --global-back-to-top-bg-color: rgba(
-    #{color.channel($white-color, "red", $space: rgb)},
-    #{color.channel($white-color, "green", $space: rgb)},
-    #{color.channel($white-color, "blue", $space: rgb)},
-    0.5
+    #{color.channel($accent-cyan, "red", $space: rgb)},
+    #{color.channel($accent-cyan, "green", $space: rgb)},
+    #{color.channel($accent-cyan, "blue", $space: rgb)},
+    0.9
   );
-  --global-back-to-top-text-color: #{$black-color};
+  --global-back-to-top-text-color: #{$grey-color-dark};
   --global-newsletter-bg-color: #{$grey-color-light};
   --global-newsletter-text-color: #{$grey-color-dark};
 
-  --global-tip-block: #42b983;
-  --global-tip-block-bg: #e2f5ec;
-  --global-tip-block-text: #215d42;
-  --global-tip-block-title: #359469;
-  --global-warning-block: #e7c000;
-  --global-warning-block-bg: #fff8d8;
-  --global-warning-block-text: #6b5900;
-  --global-warning-block-title: #b29400;
-  --global-danger-block: #c00;
-  --global-danger-block-bg: #ffe0e0;
-  --global-danger-block-text: #600;
-  --global-danger-block-title: #c00;
+  // Dark theme block styles
+  --global-tip-block: #{$accent-teal};
+  --global-tip-block-bg: #{color.adjust($accent-teal, $lightness: -35%)};
+  --global-tip-block-text: #{color.adjust($accent-teal, $lightness: 25%)};
+  --global-tip-block-title: #{color.adjust($accent-teal, $lightness: 10%)};
+  --global-warning-block: #{$yellow-color};
+  --global-warning-block-bg: #{color.adjust($yellow-color, $lightness: -35%)};
+  --global-warning-block-text: #{color.adjust($yellow-color, $lightness: 25%)};
+  --global-warning-block-title: #{color.adjust($yellow-color, $lightness: 10%)};
+  --global-danger-block: #{$red-color};
+  --global-danger-block-bg: #{color.adjust($red-color, $lightness: -35%)};
+  --global-danger-block-text: #{color.adjust($red-color, $lightness: 25%)};
+  --global-danger-block-title: #{$red-color};
 
   .repo-img-light {
     display: none;
