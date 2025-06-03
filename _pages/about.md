@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>M.Sc + B.Sc Computer Science @TUM</strong> | <strong>Research Assistant @Huawei</strong> | <strong>Honored Teaching Assistant @TUM</strong>
+subtitle: 
 
 profile:
   align: right
